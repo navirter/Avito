@@ -1,0 +1,1361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="d53ac1a0-28a5-41d7-94bb-11bcb93d23a7" Title="NodaTime Namespace" Url="html/N_NodaTime.htm">
+    <HelpTOCNode Id="cdb2f3cb-25dc-4ed4-9011-fb9e189304c5" Title="AmbiguousTimeException Class" Url="html/T_NodaTime_AmbiguousTimeException.htm">
+      <HelpTOCNode Title="AmbiguousTimeException Members" Url="html/AllMembers_T_NodaTime_AmbiguousTimeException.htm" />
+      <HelpTOCNode Title="AmbiguousTimeException Constructor " Url="html/M_NodaTime_AmbiguousTimeException__ctor.htm" />
+      <HelpTOCNode Id="58e2f098-9444-4517-b820-494eeea7051a" Title="AmbiguousTimeException Properties" Url="html/Properties_T_NodaTime_AmbiguousTimeException.htm">
+        <HelpTOCNode Title="EarlierMapping Property " Url="html/P_NodaTime_AmbiguousTimeException_EarlierMapping.htm" />
+        <HelpTOCNode Title="LaterMapping Property " Url="html/P_NodaTime_AmbiguousTimeException_LaterMapping.htm" />
+        <HelpTOCNode Title="Zone Property " Url="html/P_NodaTime_AmbiguousTimeException_Zone.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b9788dea-a2dd-470c-bc51-54fff7662e01" Title="CalendarSystem Class" Url="html/T_NodaTime_CalendarSystem.htm">
+      <HelpTOCNode Title="CalendarSystem Members" Url="html/AllMembers_T_NodaTime_CalendarSystem.htm" />
+      <HelpTOCNode Id="814bd2b2-f1cb-4854-8810-25812ca767d1" Title="CalendarSystem Methods" Url="html/Methods_T_NodaTime_CalendarSystem.htm">
+        <HelpTOCNode Title="ForId Method " Url="html/M_NodaTime_CalendarSystem_ForId.htm" />
+        <HelpTOCNode Title="GetAbsoluteYear Method " Url="html/M_NodaTime_CalendarSystem_GetAbsoluteYear.htm" />
+        <HelpTOCNode Title="GetCopticCalendar Method " Url="html/M_NodaTime_CalendarSystem_GetCopticCalendar.htm" />
+        <HelpTOCNode Title="GetDaysInMonth Method " Url="html/M_NodaTime_CalendarSystem_GetDaysInMonth.htm" />
+        <HelpTOCNode Title="GetGregorianCalendar Method " Url="html/M_NodaTime_CalendarSystem_GetGregorianCalendar.htm" />
+        <HelpTOCNode Title="GetHebrewCalendar Method " Url="html/M_NodaTime_CalendarSystem_GetHebrewCalendar.htm" />
+        <HelpTOCNode Title="GetIslamicCalendar Method " Url="html/M_NodaTime_CalendarSystem_GetIslamicCalendar.htm" />
+        <HelpTOCNode Title="GetJulianCalendar Method " Url="html/M_NodaTime_CalendarSystem_GetJulianCalendar.htm" />
+        <HelpTOCNode Title="GetMaxMonth Method " Url="html/M_NodaTime_CalendarSystem_GetMaxMonth.htm" />
+        <HelpTOCNode Title="GetMaxYearOfEra Method " Url="html/M_NodaTime_CalendarSystem_GetMaxYearOfEra.htm" />
+        <HelpTOCNode Title="GetMinYearOfEra Method " Url="html/M_NodaTime_CalendarSystem_GetMinYearOfEra.htm" />
+        <HelpTOCNode Title="GetPersianCalendar Method " Url="html/M_NodaTime_CalendarSystem_GetPersianCalendar.htm" />
+        <HelpTOCNode Title="IsLeapYear Method " Url="html/M_NodaTime_CalendarSystem_IsLeapYear.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M_NodaTime_CalendarSystem_ToString.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4a9c58ec-8139-4f8e-9203-54be64c796e0" Title="CalendarSystem Properties" Url="html/Properties_T_NodaTime_CalendarSystem.htm">
+        <HelpTOCNode Title="Eras Property " Url="html/P_NodaTime_CalendarSystem_Eras.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_NodaTime_CalendarSystem_Id.htm" />
+        <HelpTOCNode Title="Ids Property " Url="html/P_NodaTime_CalendarSystem_Ids.htm" />
+        <HelpTOCNode Title="Iso Property " Url="html/P_NodaTime_CalendarSystem_Iso.htm" />
+        <HelpTOCNode Title="MaxYear Property " Url="html/P_NodaTime_CalendarSystem_MaxYear.htm" />
+        <HelpTOCNode Title="MinYear Property " Url="html/P_NodaTime_CalendarSystem_MinYear.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_NodaTime_CalendarSystem_Name.htm" />
+        <HelpTOCNode Title="UsesIsoDayOfWeek Property " Url="html/P_NodaTime_CalendarSystem_UsesIsoDayOfWeek.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="deb83b5b-2c22-4784-8f17-ba3d8777d878" Title="DateTimeZone Class" Url="html/T_NodaTime_DateTimeZone.htm">
+      <HelpTOCNode Title="DateTimeZone Members" Url="html/AllMembers_T_NodaTime_DateTimeZone.htm" />
+      <HelpTOCNode Title="DateTimeZone Constructor " Url="html/M_NodaTime_DateTimeZone__ctor.htm" />
+      <HelpTOCNode Id="1ab6f223-90ba-45b0-b8c3-dbe92e2b8392" Title="DateTimeZone Methods" Url="html/Methods_T_NodaTime_DateTimeZone.htm">
+        <HelpTOCNode Title="AtLeniently Method " Url="html/M_NodaTime_DateTimeZone_AtLeniently.htm" />
+        <HelpTOCNode Title="AtStartOfDay Method " Url="html/M_NodaTime_DateTimeZone_AtStartOfDay.htm" />
+        <HelpTOCNode Title="AtStrictly Method " Url="html/M_NodaTime_DateTimeZone_AtStrictly.htm" />
+        <HelpTOCNode Id="b11fe5cd-5de5-40c2-822b-75a9e3b4f1c8" Title="Equals Method " Url="html/Overload_NodaTime_DateTimeZone_Equals.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/M_NodaTime_DateTimeZone_Equals_1.htm" />
+          <HelpTOCNode Title="Equals Method (DateTimeZone)" Url="html/M_NodaTime_DateTimeZone_Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="EqualsImpl Method " Url="html/M_NodaTime_DateTimeZone_EqualsImpl.htm" />
+        <HelpTOCNode Title="ForOffset Method " Url="html/M_NodaTime_DateTimeZone_ForOffset.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_DateTimeZone_GetHashCode.htm" />
+        <HelpTOCNode Title="GetUtcOffset Method " Url="html/M_NodaTime_DateTimeZone_GetUtcOffset.htm" />
+        <HelpTOCNode Title="GetZoneInterval Method " Url="html/M_NodaTime_DateTimeZone_GetZoneInterval.htm" />
+        <HelpTOCNode Id="c5475a49-c4f9-41d8-b68e-c9d28347d551" Title="GetZoneIntervals Method " Url="html/Overload_NodaTime_DateTimeZone_GetZoneIntervals.htm">
+          <HelpTOCNode Title="GetZoneIntervals Method (Interval)" Url="html/M_NodaTime_DateTimeZone_GetZoneIntervals_1.htm" />
+          <HelpTOCNode Title="GetZoneIntervals Method (Instant, Instant)" Url="html/M_NodaTime_DateTimeZone_GetZoneIntervals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MapLocal Method " Url="html/M_NodaTime_DateTimeZone_MapLocal.htm" />
+        <HelpTOCNode Title="ResolveLocal Method " Url="html/M_NodaTime_DateTimeZone_ResolveLocal.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M_NodaTime_DateTimeZone_ToString.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1cdbb18b-c426-48ef-95a9-19663a662c7e" Title="DateTimeZone Properties" Url="html/Properties_T_NodaTime_DateTimeZone.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_NodaTime_DateTimeZone_Id.htm" />
+        <HelpTOCNode Title="MaxOffset Property " Url="html/P_NodaTime_DateTimeZone_MaxOffset.htm" />
+        <HelpTOCNode Title="MinOffset Property " Url="html/P_NodaTime_DateTimeZone_MinOffset.htm" />
+        <HelpTOCNode Title="Utc Property " Url="html/P_NodaTime_DateTimeZone_Utc.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8ee6059b-c244-407d-8d6c-a80bd704c8a7" Title="DateTimeZoneProviders Class" Url="html/T_NodaTime_DateTimeZoneProviders.htm">
+      <HelpTOCNode Title="DateTimeZoneProviders Members" Url="html/AllMembers_T_NodaTime_DateTimeZoneProviders.htm" />
+      <HelpTOCNode Id="4621d4a7-abd3-469e-a15e-64d6b6ff5fd8" Title="DateTimeZoneProviders Properties" Url="html/Properties_T_NodaTime_DateTimeZoneProviders.htm">
+        <HelpTOCNode Title="Bcl Property " Url="html/P_NodaTime_DateTimeZoneProviders_Bcl.htm" />
+        <HelpTOCNode Title="Default Property " Url="html/P_NodaTime_DateTimeZoneProviders_Default.htm" />
+        <HelpTOCNode Title="Serialization Property " Url="html/P_NodaTime_DateTimeZoneProviders_Serialization.htm" />
+        <HelpTOCNode Title="Tzdb Property " Url="html/P_NodaTime_DateTimeZoneProviders_Tzdb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="513873e1-c8ef-4ed3-aeed-3237815ff0cf" Title="Duration Structure" Url="html/T_NodaTime_Duration.htm">
+      <HelpTOCNode Title="Duration Members" Url="html/AllMembers_T_NodaTime_Duration.htm" />
+      <HelpTOCNode Id="473aba8d-ef01-4471-84ef-a6fecf62787b" Title="Duration Fields" Url="html/Fields_T_NodaTime_Duration.htm">
+        <HelpTOCNode Title="Epsilon Field" Url="html/F_NodaTime_Duration_Epsilon.htm" />
+        <HelpTOCNode Title="Zero Field" Url="html/F_NodaTime_Duration_Zero.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="479d7c88-c785-4968-9874-4e8c679583a1" Title="Duration Methods" Url="html/Methods_T_NodaTime_Duration.htm">
+        <HelpTOCNode Title="Add Method " Url="html/M_NodaTime_Duration_Add.htm" />
+        <HelpTOCNode Title="CompareTo Method " Url="html/M_NodaTime_Duration_CompareTo.htm" />
+        <HelpTOCNode Title="Divide Method " Url="html/M_NodaTime_Duration_Divide.htm" />
+        <HelpTOCNode Id="caf5584b-5d4f-49cf-8cb3-f1dea118f78a" Title="Equals Method " Url="html/Overload_NodaTime_Duration_Equals.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/M_NodaTime_Duration_Equals_1.htm" />
+          <HelpTOCNode Title="Equals Method (Duration)" Url="html/M_NodaTime_Duration_Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FromHours Method " Url="html/M_NodaTime_Duration_FromHours.htm" />
+        <HelpTOCNode Title="FromMilliseconds Method " Url="html/M_NodaTime_Duration_FromMilliseconds.htm" />
+        <HelpTOCNode Title="FromMinutes Method " Url="html/M_NodaTime_Duration_FromMinutes.htm" />
+        <HelpTOCNode Title="FromSeconds Method " Url="html/M_NodaTime_Duration_FromSeconds.htm" />
+        <HelpTOCNode Title="FromStandardDays Method " Url="html/M_NodaTime_Duration_FromStandardDays.htm" />
+        <HelpTOCNode Title="FromStandardWeeks Method " Url="html/M_NodaTime_Duration_FromStandardWeeks.htm" />
+        <HelpTOCNode Title="FromTicks Method " Url="html/M_NodaTime_Duration_FromTicks.htm" />
+        <HelpTOCNode Title="FromTimeSpan Method " Url="html/M_NodaTime_Duration_FromTimeSpan.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_Duration_GetHashCode.htm" />
+        <HelpTOCNode Title="Minus Method " Url="html/M_NodaTime_Duration_Minus.htm" />
+        <HelpTOCNode Id="650035ed-d9e4-45df-9566-769477d61a17" Title="Multiply Method " Url="html/Overload_NodaTime_Duration_Multiply.htm">
+          <HelpTOCNode Title="Multiply Method (Int64, Duration)" Url="html/M_NodaTime_Duration_Multiply_1.htm" />
+          <HelpTOCNode Title="Multiply Method (Duration, Int64)" Url="html/M_NodaTime_Duration_Multiply.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Negate Method " Url="html/M_NodaTime_Duration_Negate.htm" />
+        <HelpTOCNode Title="Plus Method " Url="html/M_NodaTime_Duration_Plus.htm" />
+        <HelpTOCNode Title="Subtract Method " Url="html/M_NodaTime_Duration_Subtract.htm" />
+        <HelpTOCNode Id="31f9ac3d-6e78-4584-85c2-1c4d132de3eb" Title="ToString Method " Url="html/Overload_NodaTime_Duration_ToString.htm">
+          <HelpTOCNode Title="ToString Method " Url="html/M_NodaTime_Duration_ToString.htm" />
+          <HelpTOCNode Title="ToString Method (String, IFormatProvider)" Url="html/M_NodaTime_Duration_ToString_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ToTimeSpan Method " Url="html/M_NodaTime_Duration_ToTimeSpan.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="04849ae3-4fba-4eed-9b7d-4027cc63c192" Title="Duration Operators" Url="html/Operators_T_NodaTime_Duration.htm">
+        <HelpTOCNode Title="Addition Operator " Url="html/M_NodaTime_Duration_op_Addition.htm" />
+        <HelpTOCNode Title="Division Operator " Url="html/M_NodaTime_Duration_op_Division.htm" />
+        <HelpTOCNode Title="Equality Operator " Url="html/M_NodaTime_Duration_op_Equality.htm" />
+        <HelpTOCNode Title="GreaterThan Operator " Url="html/M_NodaTime_Duration_op_GreaterThan.htm" />
+        <HelpTOCNode Title="GreaterThanOrEqual Operator " Url="html/M_NodaTime_Duration_op_GreaterThanOrEqual.htm" />
+        <HelpTOCNode Title="Inequality Operator " Url="html/M_NodaTime_Duration_op_Inequality.htm" />
+        <HelpTOCNode Title="LessThan Operator " Url="html/M_NodaTime_Duration_op_LessThan.htm" />
+        <HelpTOCNode Title="LessThanOrEqual Operator " Url="html/M_NodaTime_Duration_op_LessThanOrEqual.htm" />
+        <HelpTOCNode Id="e63180ad-dd66-4d16-bb99-352b61c66985" Title="Multiply Operator " Url="html/Overload_NodaTime_Duration_op_Multiply.htm">
+          <HelpTOCNode Title="Multiply Operator (Int64, Duration)" Url="html/M_NodaTime_Duration_op_Multiply_1.htm" />
+          <HelpTOCNode Title="Multiply Operator (Duration, Int64)" Url="html/M_NodaTime_Duration_op_Multiply.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Subtraction Operator " Url="html/M_NodaTime_Duration_op_Subtraction.htm" />
+        <HelpTOCNode Title="UnaryNegation Operator " Url="html/M_NodaTime_Duration_op_UnaryNegation.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="02322ec4-eced-4577-b217-c85d63a866f9" Title="Duration Properties" Url="html/Properties_T_NodaTime_Duration.htm">
+        <HelpTOCNode Title="Ticks Property " Url="html/P_NodaTime_Duration_Ticks.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="94b7d6ef-309d-453a-b7d8-8dedf6d88d74" Title="IClock Interface" Url="html/T_NodaTime_IClock.htm">
+      <HelpTOCNode Title="IClock Members" Url="html/AllMembers_T_NodaTime_IClock.htm" />
+      <HelpTOCNode Id="e5f6e2f8-da4f-441a-9ab5-8c01ee2bf264" Title="IClock Properties" Url="html/Properties_T_NodaTime_IClock.htm">
+        <HelpTOCNode Title="Now Property " Url="html/P_NodaTime_IClock_Now.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="81aacfdd-bbf1-4a18-83be-920b9fed0e06" Title="IDateTimeZoneProvider Interface" Url="html/T_NodaTime_IDateTimeZoneProvider.htm">
+      <HelpTOCNode Title="IDateTimeZoneProvider Members" Url="html/AllMembers_T_NodaTime_IDateTimeZoneProvider.htm" />
+      <HelpTOCNode Id="2d58d4d8-0cbe-45d4-a356-4ff5dfa48953" Title="IDateTimeZoneProvider Methods" Url="html/Methods_T_NodaTime_IDateTimeZoneProvider.htm">
+        <HelpTOCNode Title="GetSystemDefault Method " Url="html/M_NodaTime_IDateTimeZoneProvider_GetSystemDefault.htm" />
+        <HelpTOCNode Title="GetZoneOrNull Method " Url="html/M_NodaTime_IDateTimeZoneProvider_GetZoneOrNull.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6eca5818-892a-4455-b1d7-c5e7ce1ab484" Title="IDateTimeZoneProvider Properties" Url="html/Properties_T_NodaTime_IDateTimeZoneProvider.htm">
+        <HelpTOCNode Title="Ids Property " Url="html/P_NodaTime_IDateTimeZoneProvider_Ids.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/P_NodaTime_IDateTimeZoneProvider_Item.htm" />
+        <HelpTOCNode Title="VersionId Property " Url="html/P_NodaTime_IDateTimeZoneProvider_VersionId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="08d9d78a-1687-4273-bc4f-cd4e35b5a91c" Title="Instant Structure" Url="html/T_NodaTime_Instant.htm">
+      <HelpTOCNode Title="Instant Members" Url="html/AllMembers_T_NodaTime_Instant.htm" />
+      <HelpTOCNode Title="Instant Constructor " Url="html/M_NodaTime_Instant__ctor.htm" />
+      <HelpTOCNode Id="29e8fcd8-e58f-4d2c-b836-accd601511be" Title="Instant Fields" Url="html/Fields_T_NodaTime_Instant.htm">
+        <HelpTOCNode Title="MaxValue Field" Url="html/F_NodaTime_Instant_MaxValue.htm" />
+        <HelpTOCNode Title="MinValue Field" Url="html/F_NodaTime_Instant_MinValue.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="66c7d051-0349-4831-add1-b32898330a2d" Title="Instant Methods" Url="html/Methods_T_NodaTime_Instant.htm">
+        <HelpTOCNode Title="Add Method " Url="html/M_NodaTime_Instant_Add.htm" />
+        <HelpTOCNode Title="CompareTo Method " Url="html/M_NodaTime_Instant_CompareTo.htm" />
+        <HelpTOCNode Id="eb74e814-9a9c-4060-9dbb-17609182cf31" Title="Equals Method " Url="html/Overload_NodaTime_Instant_Equals.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/M_NodaTime_Instant_Equals_1.htm" />
+          <HelpTOCNode Title="Equals Method (Instant)" Url="html/M_NodaTime_Instant_Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FromDateTimeOffset Method " Url="html/M_NodaTime_Instant_FromDateTimeOffset.htm" />
+        <HelpTOCNode Title="FromDateTimeUtc Method " Url="html/M_NodaTime_Instant_FromDateTimeUtc.htm" />
+        <HelpTOCNode Title="FromMillisecondsSinceUnixEpoch Method " Url="html/M_NodaTime_Instant_FromMillisecondsSinceUnixEpoch.htm" />
+        <HelpTOCNode Title="FromSecondsSinceUnixEpoch Method " Url="html/M_NodaTime_Instant_FromSecondsSinceUnixEpoch.htm" />
+        <HelpTOCNode Title="FromTicksSinceUnixEpoch Method " Url="html/M_NodaTime_Instant_FromTicksSinceUnixEpoch.htm" />
+        <HelpTOCNode Id="d1e3d45c-d511-4bc3-8f9e-fc2a735606ce" Title="FromUtc Method " Url="html/Overload_NodaTime_Instant_FromUtc.htm">
+          <HelpTOCNode Title="FromUtc Method (Int32, Int32, Int32, Int32, Int32)" Url="html/M_NodaTime_Instant_FromUtc.htm" />
+          <HelpTOCNode Title="FromUtc Method (Int32, Int32, Int32, Int32, Int32, Int32)" Url="html/M_NodaTime_Instant_FromUtc_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_Instant_GetHashCode.htm" />
+        <HelpTOCNode Title="InUtc Method " Url="html/M_NodaTime_Instant_InUtc.htm" />
+        <HelpTOCNode Id="52617eee-fd36-413a-9d39-d2c5f06bab5e" Title="InZone Method " Url="html/Overload_NodaTime_Instant_InZone.htm">
+          <HelpTOCNode Title="InZone Method (DateTimeZone)" Url="html/M_NodaTime_Instant_InZone.htm" />
+          <HelpTOCNode Title="InZone Method (DateTimeZone, CalendarSystem)" Url="html/M_NodaTime_Instant_InZone_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Max Method " Url="html/M_NodaTime_Instant_Max.htm" />
+        <HelpTOCNode Title="Min Method " Url="html/M_NodaTime_Instant_Min.htm" />
+        <HelpTOCNode Id="fe83c944-07b3-402b-b2cf-77c26ec49089" Title="Minus Method " Url="html/Overload_NodaTime_Instant_Minus.htm">
+          <HelpTOCNode Title="Minus Method (Duration)" Url="html/M_NodaTime_Instant_Minus.htm" />
+          <HelpTOCNode Title="Minus Method (Instant)" Url="html/M_NodaTime_Instant_Minus_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Plus Method " Url="html/M_NodaTime_Instant_Plus.htm" />
+        <HelpTOCNode Title="PlusTicks Method " Url="html/M_NodaTime_Instant_PlusTicks.htm" />
+        <HelpTOCNode Id="64d708f9-1c56-4332-a195-c33cea51550b" Title="Subtract Method " Url="html/Overload_NodaTime_Instant_Subtract.htm">
+          <HelpTOCNode Title="Subtract Method (Instant, Duration)" Url="html/M_NodaTime_Instant_Subtract.htm" />
+          <HelpTOCNode Title="Subtract Method (Instant, Instant)" Url="html/M_NodaTime_Instant_Subtract_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ToDateTimeOffset Method " Url="html/M_NodaTime_Instant_ToDateTimeOffset.htm" />
+        <HelpTOCNode Title="ToDateTimeUtc Method " Url="html/M_NodaTime_Instant_ToDateTimeUtc.htm" />
+        <HelpTOCNode Id="0939564d-490b-4126-8a7d-cf528935fd42" Title="ToString Method " Url="html/Overload_NodaTime_Instant_ToString.htm">
+          <HelpTOCNode Title="ToString Method " Url="html/M_NodaTime_Instant_ToString.htm" />
+          <HelpTOCNode Title="ToString Method (String, IFormatProvider)" Url="html/M_NodaTime_Instant_ToString_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="cf7daf41-5122-4a37-90f0-21bf2bf2573b" Title="WithOffset Method " Url="html/Overload_NodaTime_Instant_WithOffset.htm">
+          <HelpTOCNode Title="WithOffset Method (Offset)" Url="html/M_NodaTime_Instant_WithOffset.htm" />
+          <HelpTOCNode Title="WithOffset Method (Offset, CalendarSystem)" Url="html/M_NodaTime_Instant_WithOffset_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="3fb934c1-0a0d-42d2-97c5-ceb8a89b7f6b" Title="Instant Operators" Url="html/Operators_T_NodaTime_Instant.htm">
+        <HelpTOCNode Title="Addition Operator " Url="html/M_NodaTime_Instant_op_Addition.htm" />
+        <HelpTOCNode Title="Equality Operator " Url="html/M_NodaTime_Instant_op_Equality.htm" />
+        <HelpTOCNode Title="GreaterThan Operator " Url="html/M_NodaTime_Instant_op_GreaterThan.htm" />
+        <HelpTOCNode Title="GreaterThanOrEqual Operator " Url="html/M_NodaTime_Instant_op_GreaterThanOrEqual.htm" />
+        <HelpTOCNode Title="Inequality Operator " Url="html/M_NodaTime_Instant_op_Inequality.htm" />
+        <HelpTOCNode Title="LessThan Operator " Url="html/M_NodaTime_Instant_op_LessThan.htm" />
+        <HelpTOCNode Title="LessThanOrEqual Operator " Url="html/M_NodaTime_Instant_op_LessThanOrEqual.htm" />
+        <HelpTOCNode Id="741cd2d9-1a19-4a34-a0e6-be6d7cfb5b73" Title="Subtraction Operator " Url="html/Overload_NodaTime_Instant_op_Subtraction.htm">
+          <HelpTOCNode Title="Subtraction Operator (Instant, Duration)" Url="html/M_NodaTime_Instant_op_Subtraction.htm" />
+          <HelpTOCNode Title="Subtraction Operator (Instant, Instant)" Url="html/M_NodaTime_Instant_op_Subtraction_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e0579c4a-f291-44c1-b791-640d79723b5e" Title="Instant Properties" Url="html/Properties_T_NodaTime_Instant.htm">
+        <HelpTOCNode Title="Ticks Property " Url="html/P_NodaTime_Instant_Ticks.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="13a09646-305f-423a-9248-762492b02b10" Title="Interval Structure" Url="html/T_NodaTime_Interval.htm">
+      <HelpTOCNode Title="Interval Members" Url="html/AllMembers_T_NodaTime_Interval.htm" />
+      <HelpTOCNode Title="Interval Constructor " Url="html/M_NodaTime_Interval__ctor.htm" />
+      <HelpTOCNode Id="0b09e2a8-a9a1-4eb8-8fc2-a319cd182681" Title="Interval Methods" Url="html/Methods_T_NodaTime_Interval.htm">
+        <HelpTOCNode Title="Contains Method " Url="html/M_NodaTime_Interval_Contains.htm" />
+        <HelpTOCNode Id="e3c10242-88a7-4f26-ac15-08f239b00283" Title="Equals Method " Url="html/Overload_NodaTime_Interval_Equals.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/M_NodaTime_Interval_Equals_1.htm" />
+          <HelpTOCNode Title="Equals Method (Interval)" Url="html/M_NodaTime_Interval_Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_Interval_GetHashCode.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M_NodaTime_Interval_ToString.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b7f4a3ce-7fc5-4dc0-838c-2c09a0224565" Title="Interval Operators" Url="html/Operators_T_NodaTime_Interval.htm">
+        <HelpTOCNode Title="Equality Operator " Url="html/M_NodaTime_Interval_op_Equality.htm" />
+        <HelpTOCNode Title="Inequality Operator " Url="html/M_NodaTime_Interval_op_Inequality.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4e7719a8-da99-4f8e-a5ac-00e5c9f554e2" Title="Interval Properties" Url="html/Properties_T_NodaTime_Interval.htm">
+        <HelpTOCNode Title="Duration Property " Url="html/P_NodaTime_Interval_Duration.htm" />
+        <HelpTOCNode Title="End Property " Url="html/P_NodaTime_Interval_End.htm" />
+        <HelpTOCNode Title="Start Property " Url="html/P_NodaTime_Interval_Start.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="IsoDayOfWeek Enumeration" Url="html/T_NodaTime_IsoDayOfWeek.htm" />
+    <HelpTOCNode Id="4a9c6b33-18c6-4e56-9b8c-eef109c53f65" Title="LocalDate Structure" Url="html/T_NodaTime_LocalDate.htm">
+      <HelpTOCNode Title="LocalDate Members" Url="html/AllMembers_T_NodaTime_LocalDate.htm" />
+      <HelpTOCNode Id="6cf28740-6139-421c-9c0b-ae69a6c8fde2" Title="LocalDate Constructor " Url="html/Overload_NodaTime_LocalDate__ctor.htm">
+        <HelpTOCNode Title="LocalDate Constructor (Int32, Int32, Int32)" Url="html/M_NodaTime_LocalDate__ctor_2.htm" />
+        <HelpTOCNode Title="LocalDate Constructor (Int32, Int32, Int32, CalendarSystem)" Url="html/M_NodaTime_LocalDate__ctor_3.htm" />
+        <HelpTOCNode Title="LocalDate Constructor (Era, Int32, Int32, Int32)" Url="html/M_NodaTime_LocalDate__ctor.htm" />
+        <HelpTOCNode Title="LocalDate Constructor (Era, Int32, Int32, Int32, CalendarSystem)" Url="html/M_NodaTime_LocalDate__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f7f54706-4b0c-421d-ae57-1cc689967580" Title="LocalDate Methods" Url="html/Methods_T_NodaTime_LocalDate.htm">
+        <HelpTOCNode Title="Add Method " Url="html/M_NodaTime_LocalDate_Add.htm" />
+        <HelpTOCNode Title="At Method " Url="html/M_NodaTime_LocalDate_At.htm" />
+        <HelpTOCNode Title="AtMidnight Method " Url="html/M_NodaTime_LocalDate_AtMidnight.htm" />
+        <HelpTOCNode Title="CompareTo Method " Url="html/M_NodaTime_LocalDate_CompareTo.htm" />
+        <HelpTOCNode Id="8f8e07b9-3bd1-4d87-b06d-ad973bf34e14" Title="Equals Method " Url="html/Overload_NodaTime_LocalDate_Equals.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/M_NodaTime_LocalDate_Equals_1.htm" />
+          <HelpTOCNode Title="Equals Method (LocalDate)" Url="html/M_NodaTime_LocalDate_Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FromWeekYearWeekAndDay Method " Url="html/M_NodaTime_LocalDate_FromWeekYearWeekAndDay.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_LocalDate_GetHashCode.htm" />
+        <HelpTOCNode Title="Minus Method " Url="html/M_NodaTime_LocalDate_Minus.htm" />
+        <HelpTOCNode Title="Next Method " Url="html/M_NodaTime_LocalDate_Next.htm" />
+        <HelpTOCNode Title="Plus Method " Url="html/M_NodaTime_LocalDate_Plus.htm" />
+        <HelpTOCNode Title="PlusDays Method " Url="html/M_NodaTime_LocalDate_PlusDays.htm" />
+        <HelpTOCNode Title="PlusMonths Method " Url="html/M_NodaTime_LocalDate_PlusMonths.htm" />
+        <HelpTOCNode Title="PlusWeeks Method " Url="html/M_NodaTime_LocalDate_PlusWeeks.htm" />
+        <HelpTOCNode Title="PlusYears Method " Url="html/M_NodaTime_LocalDate_PlusYears.htm" />
+        <HelpTOCNode Title="Previous Method " Url="html/M_NodaTime_LocalDate_Previous.htm" />
+        <HelpTOCNode Title="Subtract Method " Url="html/M_NodaTime_LocalDate_Subtract.htm" />
+        <HelpTOCNode Id="fd5d8e04-e0c3-41d7-9637-b748d3a14048" Title="ToString Method " Url="html/Overload_NodaTime_LocalDate_ToString.htm">
+          <HelpTOCNode Title="ToString Method " Url="html/M_NodaTime_LocalDate_ToString.htm" />
+          <HelpTOCNode Title="ToString Method (String, IFormatProvider)" Url="html/M_NodaTime_LocalDate_ToString_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="WithCalendar Method " Url="html/M_NodaTime_LocalDate_WithCalendar.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c3428760-6914-453b-bfe6-a5fb6a48aab6" Title="LocalDate Operators" Url="html/Operators_T_NodaTime_LocalDate.htm">
+        <HelpTOCNode Id="982f3d6d-be34-4b9c-9773-618bb489e559" Title="Addition Operator " Url="html/Overload_NodaTime_LocalDate_op_Addition.htm">
+          <HelpTOCNode Title="Addition Operator (LocalDate, LocalTime)" Url="html/M_NodaTime_LocalDate_op_Addition.htm" />
+          <HelpTOCNode Title="Addition Operator (LocalDate, Period)" Url="html/M_NodaTime_LocalDate_op_Addition_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Equality Operator " Url="html/M_NodaTime_LocalDate_op_Equality.htm" />
+        <HelpTOCNode Title="GreaterThan Operator " Url="html/M_NodaTime_LocalDate_op_GreaterThan.htm" />
+        <HelpTOCNode Title="GreaterThanOrEqual Operator " Url="html/M_NodaTime_LocalDate_op_GreaterThanOrEqual.htm" />
+        <HelpTOCNode Title="Inequality Operator " Url="html/M_NodaTime_LocalDate_op_Inequality.htm" />
+        <HelpTOCNode Title="LessThan Operator " Url="html/M_NodaTime_LocalDate_op_LessThan.htm" />
+        <HelpTOCNode Title="LessThanOrEqual Operator " Url="html/M_NodaTime_LocalDate_op_LessThanOrEqual.htm" />
+        <HelpTOCNode Title="Subtraction Operator " Url="html/M_NodaTime_LocalDate_op_Subtraction.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="05e8396c-2b03-4b1a-a3e6-dce64b494bde" Title="LocalDate Properties" Url="html/Properties_T_NodaTime_LocalDate.htm">
+        <HelpTOCNode Title="Calendar Property " Url="html/P_NodaTime_LocalDate_Calendar.htm" />
+        <HelpTOCNode Title="Day Property " Url="html/P_NodaTime_LocalDate_Day.htm" />
+        <HelpTOCNode Title="DayOfWeek Property " Url="html/P_NodaTime_LocalDate_DayOfWeek.htm" />
+        <HelpTOCNode Title="DayOfYear Property " Url="html/P_NodaTime_LocalDate_DayOfYear.htm" />
+        <HelpTOCNode Title="Era Property " Url="html/P_NodaTime_LocalDate_Era.htm" />
+        <HelpTOCNode Title="IsoDayOfWeek Property " Url="html/P_NodaTime_LocalDate_IsoDayOfWeek.htm" />
+        <HelpTOCNode Title="Month Property " Url="html/P_NodaTime_LocalDate_Month.htm" />
+        <HelpTOCNode Title="WeekOfWeekYear Property " Url="html/P_NodaTime_LocalDate_WeekOfWeekYear.htm" />
+        <HelpTOCNode Title="WeekYear Property " Url="html/P_NodaTime_LocalDate_WeekYear.htm" />
+        <HelpTOCNode Title="Year Property " Url="html/P_NodaTime_LocalDate_Year.htm" />
+        <HelpTOCNode Title="YearOfCentury Property " Url="html/P_NodaTime_LocalDate_YearOfCentury.htm" />
+        <HelpTOCNode Title="YearOfEra Property " Url="html/P_NodaTime_LocalDate_YearOfEra.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3c929741-1fbb-4529-b094-75f213f8a808" Title="LocalDateTime Structure" Url="html/T_NodaTime_LocalDateTime.htm">
+      <HelpTOCNode Title="LocalDateTime Members" Url="html/AllMembers_T_NodaTime_LocalDateTime.htm" />
+      <HelpTOCNode Id="489e1e3b-b292-4187-99ef-77c841b4dcfb" Title="LocalDateTime Constructor " Url="html/Overload_NodaTime_LocalDateTime__ctor.htm">
+        <HelpTOCNode Title="LocalDateTime Constructor (Int32, Int32, Int32, Int32, Int32)" Url="html/M_NodaTime_LocalDateTime__ctor.htm" />
+        <HelpTOCNode Title="LocalDateTime Constructor (Int32, Int32, Int32, Int32, Int32, CalendarSystem)" Url="html/M_NodaTime_LocalDateTime__ctor_1.htm" />
+        <HelpTOCNode Title="LocalDateTime Constructor (Int32, Int32, Int32, Int32, Int32, Int32)" Url="html/M_NodaTime_LocalDateTime__ctor_2.htm" />
+        <HelpTOCNode Title="LocalDateTime Constructor (Int32, Int32, Int32, Int32, Int32, Int32, CalendarSystem)" Url="html/M_NodaTime_LocalDateTime__ctor_3.htm" />
+        <HelpTOCNode Title="LocalDateTime Constructor (Int32, Int32, Int32, Int32, Int32, Int32, Int32)" Url="html/M_NodaTime_LocalDateTime__ctor_4.htm" />
+        <HelpTOCNode Title="LocalDateTime Constructor (Int32, Int32, Int32, Int32, Int32, Int32, Int32, CalendarSystem)" Url="html/M_NodaTime_LocalDateTime__ctor_5.htm" />
+        <HelpTOCNode Title="LocalDateTime Constructor (Int32, Int32, Int32, Int32, Int32, Int32, Int32, Int32)" Url="html/M_NodaTime_LocalDateTime__ctor_6.htm" />
+        <HelpTOCNode Title="LocalDateTime Constructor (Int32, Int32, Int32, Int32, Int32, Int32, Int32, Int32, CalendarSystem)" Url="html/M_NodaTime_LocalDateTime__ctor_7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="52726e0b-779c-40d5-bae9-54bf85b16b5d" Title="LocalDateTime Methods" Url="html/Methods_T_NodaTime_LocalDateTime.htm">
+        <HelpTOCNode Title="Add Method " Url="html/M_NodaTime_LocalDateTime_Add.htm" />
+        <HelpTOCNode Title="CompareTo Method " Url="html/M_NodaTime_LocalDateTime_CompareTo.htm" />
+        <HelpTOCNode Id="304a9582-4dac-435f-b16a-7e14f3a8d5f6" Title="Equals Method " Url="html/Overload_NodaTime_LocalDateTime_Equals.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/M_NodaTime_LocalDateTime_Equals_1.htm" />
+          <HelpTOCNode Title="Equals Method (LocalDateTime)" Url="html/M_NodaTime_LocalDateTime_Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FromDateTime Method " Url="html/M_NodaTime_LocalDateTime_FromDateTime.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_LocalDateTime_GetHashCode.htm" />
+        <HelpTOCNode Title="InUtc Method " Url="html/M_NodaTime_LocalDateTime_InUtc.htm" />
+        <HelpTOCNode Title="InZone Method " Url="html/M_NodaTime_LocalDateTime_InZone.htm" />
+        <HelpTOCNode Title="InZoneLeniently Method " Url="html/M_NodaTime_LocalDateTime_InZoneLeniently.htm" />
+        <HelpTOCNode Title="InZoneStrictly Method " Url="html/M_NodaTime_LocalDateTime_InZoneStrictly.htm" />
+        <HelpTOCNode Title="Minus Method " Url="html/M_NodaTime_LocalDateTime_Minus.htm" />
+        <HelpTOCNode Title="Next Method " Url="html/M_NodaTime_LocalDateTime_Next.htm" />
+        <HelpTOCNode Title="Plus Method " Url="html/M_NodaTime_LocalDateTime_Plus.htm" />
+        <HelpTOCNode Title="PlusDays Method " Url="html/M_NodaTime_LocalDateTime_PlusDays.htm" />
+        <HelpTOCNode Title="PlusHours Method " Url="html/M_NodaTime_LocalDateTime_PlusHours.htm" />
+        <HelpTOCNode Title="PlusMilliseconds Method " Url="html/M_NodaTime_LocalDateTime_PlusMilliseconds.htm" />
+        <HelpTOCNode Title="PlusMinutes Method " Url="html/M_NodaTime_LocalDateTime_PlusMinutes.htm" />
+        <HelpTOCNode Title="PlusMonths Method " Url="html/M_NodaTime_LocalDateTime_PlusMonths.htm" />
+        <HelpTOCNode Title="PlusSeconds Method " Url="html/M_NodaTime_LocalDateTime_PlusSeconds.htm" />
+        <HelpTOCNode Title="PlusTicks Method " Url="html/M_NodaTime_LocalDateTime_PlusTicks.htm" />
+        <HelpTOCNode Title="PlusWeeks Method " Url="html/M_NodaTime_LocalDateTime_PlusWeeks.htm" />
+        <HelpTOCNode Title="PlusYears Method " Url="html/M_NodaTime_LocalDateTime_PlusYears.htm" />
+        <HelpTOCNode Title="Previous Method " Url="html/M_NodaTime_LocalDateTime_Previous.htm" />
+        <HelpTOCNode Title="Subtract Method " Url="html/M_NodaTime_LocalDateTime_Subtract.htm" />
+        <HelpTOCNode Title="ToDateTimeUnspecified Method " Url="html/M_NodaTime_LocalDateTime_ToDateTimeUnspecified.htm" />
+        <HelpTOCNode Id="f02cb59b-b004-4f8e-8e15-ea7bbb01ed72" Title="ToString Method " Url="html/Overload_NodaTime_LocalDateTime_ToString.htm">
+          <HelpTOCNode Title="ToString Method " Url="html/M_NodaTime_LocalDateTime_ToString.htm" />
+          <HelpTOCNode Title="ToString Method (String, IFormatProvider)" Url="html/M_NodaTime_LocalDateTime_ToString_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="WithCalendar Method " Url="html/M_NodaTime_LocalDateTime_WithCalendar.htm" />
+        <HelpTOCNode Title="WithOffset Method " Url="html/M_NodaTime_LocalDateTime_WithOffset.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="51276f35-0302-49a4-b26e-388f76d9bd35" Title="LocalDateTime Operators" Url="html/Operators_T_NodaTime_LocalDateTime.htm">
+        <HelpTOCNode Title="Addition Operator " Url="html/M_NodaTime_LocalDateTime_op_Addition.htm" />
+        <HelpTOCNode Title="Equality Operator " Url="html/M_NodaTime_LocalDateTime_op_Equality.htm" />
+        <HelpTOCNode Title="GreaterThan Operator " Url="html/M_NodaTime_LocalDateTime_op_GreaterThan.htm" />
+        <HelpTOCNode Title="GreaterThanOrEqual Operator " Url="html/M_NodaTime_LocalDateTime_op_GreaterThanOrEqual.htm" />
+        <HelpTOCNode Title="Inequality Operator " Url="html/M_NodaTime_LocalDateTime_op_Inequality.htm" />
+        <HelpTOCNode Title="LessThan Operator " Url="html/M_NodaTime_LocalDateTime_op_LessThan.htm" />
+        <HelpTOCNode Title="LessThanOrEqual Operator " Url="html/M_NodaTime_LocalDateTime_op_LessThanOrEqual.htm" />
+        <HelpTOCNode Title="Subtraction Operator " Url="html/M_NodaTime_LocalDateTime_op_Subtraction.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ba278eef-8d1c-44a6-8cc8-ec175e8e3270" Title="LocalDateTime Properties" Url="html/Properties_T_NodaTime_LocalDateTime.htm">
+        <HelpTOCNode Title="Calendar Property " Url="html/P_NodaTime_LocalDateTime_Calendar.htm" />
+        <HelpTOCNode Title="CenturyOfEra Property " Url="html/P_NodaTime_LocalDateTime_CenturyOfEra.htm" />
+        <HelpTOCNode Title="ClockHourOfHalfDay Property " Url="html/P_NodaTime_LocalDateTime_ClockHourOfHalfDay.htm" />
+        <HelpTOCNode Title="Date Property " Url="html/P_NodaTime_LocalDateTime_Date.htm" />
+        <HelpTOCNode Title="Day Property " Url="html/P_NodaTime_LocalDateTime_Day.htm" />
+        <HelpTOCNode Title="DayOfWeek Property " Url="html/P_NodaTime_LocalDateTime_DayOfWeek.htm" />
+        <HelpTOCNode Title="DayOfYear Property " Url="html/P_NodaTime_LocalDateTime_DayOfYear.htm" />
+        <HelpTOCNode Title="Era Property " Url="html/P_NodaTime_LocalDateTime_Era.htm" />
+        <HelpTOCNode Title="Hour Property " Url="html/P_NodaTime_LocalDateTime_Hour.htm" />
+        <HelpTOCNode Title="IsoDayOfWeek Property " Url="html/P_NodaTime_LocalDateTime_IsoDayOfWeek.htm" />
+        <HelpTOCNode Title="Millisecond Property " Url="html/P_NodaTime_LocalDateTime_Millisecond.htm" />
+        <HelpTOCNode Title="Minute Property " Url="html/P_NodaTime_LocalDateTime_Minute.htm" />
+        <HelpTOCNode Title="Month Property " Url="html/P_NodaTime_LocalDateTime_Month.htm" />
+        <HelpTOCNode Title="Second Property " Url="html/P_NodaTime_LocalDateTime_Second.htm" />
+        <HelpTOCNode Title="TickOfDay Property " Url="html/P_NodaTime_LocalDateTime_TickOfDay.htm" />
+        <HelpTOCNode Title="TickOfSecond Property " Url="html/P_NodaTime_LocalDateTime_TickOfSecond.htm" />
+        <HelpTOCNode Title="TimeOfDay Property " Url="html/P_NodaTime_LocalDateTime_TimeOfDay.htm" />
+        <HelpTOCNode Title="WeekOfWeekYear Property " Url="html/P_NodaTime_LocalDateTime_WeekOfWeekYear.htm" />
+        <HelpTOCNode Title="WeekYear Property " Url="html/P_NodaTime_LocalDateTime_WeekYear.htm" />
+        <HelpTOCNode Title="Year Property " Url="html/P_NodaTime_LocalDateTime_Year.htm" />
+        <HelpTOCNode Title="YearOfCentury Property " Url="html/P_NodaTime_LocalDateTime_YearOfCentury.htm" />
+        <HelpTOCNode Title="YearOfEra Property " Url="html/P_NodaTime_LocalDateTime_YearOfEra.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="69ac894b-50e7-4732-9077-00674cc5a6ea" Title="LocalTime Structure" Url="html/T_NodaTime_LocalTime.htm">
+      <HelpTOCNode Title="LocalTime Members" Url="html/AllMembers_T_NodaTime_LocalTime.htm" />
+      <HelpTOCNode Id="db81a1a0-368d-4dd2-b969-d56db7b5d1a2" Title="LocalTime Constructor " Url="html/Overload_NodaTime_LocalTime__ctor.htm">
+        <HelpTOCNode Title="LocalTime Constructor (Int32, Int32)" Url="html/M_NodaTime_LocalTime__ctor.htm" />
+        <HelpTOCNode Title="LocalTime Constructor (Int32, Int32, Int32)" Url="html/M_NodaTime_LocalTime__ctor_1.htm" />
+        <HelpTOCNode Title="LocalTime Constructor (Int32, Int32, Int32, Int32)" Url="html/M_NodaTime_LocalTime__ctor_2.htm" />
+        <HelpTOCNode Title="LocalTime Constructor (Int32, Int32, Int32, Int32, Int32)" Url="html/M_NodaTime_LocalTime__ctor_3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9bf90b2c-755c-4d47-9fdf-74e2e30239a3" Title="LocalTime Fields" Url="html/Fields_T_NodaTime_LocalTime.htm">
+        <HelpTOCNode Title="Midnight Field" Url="html/F_NodaTime_LocalTime_Midnight.htm" />
+        <HelpTOCNode Title="Noon Field" Url="html/F_NodaTime_LocalTime_Noon.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e031d97f-36ed-4e4a-8f76-16a9bd2e1456" Title="LocalTime Methods" Url="html/Methods_T_NodaTime_LocalTime.htm">
+        <HelpTOCNode Title="Add Method " Url="html/M_NodaTime_LocalTime_Add.htm" />
+        <HelpTOCNode Title="CompareTo Method " Url="html/M_NodaTime_LocalTime_CompareTo.htm" />
+        <HelpTOCNode Id="28493da3-bb6c-48da-84fd-fcf7f034f932" Title="Equals Method " Url="html/Overload_NodaTime_LocalTime_Equals.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/M_NodaTime_LocalTime_Equals_1.htm" />
+          <HelpTOCNode Title="Equals Method (LocalTime)" Url="html/M_NodaTime_LocalTime_Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FromHourMinuteSecondTick Method " Url="html/M_NodaTime_LocalTime_FromHourMinuteSecondTick.htm" />
+        <HelpTOCNode Title="FromMillisecondsSinceMidnight Method " Url="html/M_NodaTime_LocalTime_FromMillisecondsSinceMidnight.htm" />
+        <HelpTOCNode Title="FromSecondsSinceMidnight Method " Url="html/M_NodaTime_LocalTime_FromSecondsSinceMidnight.htm" />
+        <HelpTOCNode Title="FromTicksSinceMidnight Method " Url="html/M_NodaTime_LocalTime_FromTicksSinceMidnight.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_LocalTime_GetHashCode.htm" />
+        <HelpTOCNode Title="Minus Method " Url="html/M_NodaTime_LocalTime_Minus.htm" />
+        <HelpTOCNode Title="On Method " Url="html/M_NodaTime_LocalTime_On.htm" />
+        <HelpTOCNode Title="Plus Method " Url="html/M_NodaTime_LocalTime_Plus.htm" />
+        <HelpTOCNode Title="PlusHours Method " Url="html/M_NodaTime_LocalTime_PlusHours.htm" />
+        <HelpTOCNode Title="PlusMilliseconds Method " Url="html/M_NodaTime_LocalTime_PlusMilliseconds.htm" />
+        <HelpTOCNode Title="PlusMinutes Method " Url="html/M_NodaTime_LocalTime_PlusMinutes.htm" />
+        <HelpTOCNode Title="PlusSeconds Method " Url="html/M_NodaTime_LocalTime_PlusSeconds.htm" />
+        <HelpTOCNode Title="PlusTicks Method " Url="html/M_NodaTime_LocalTime_PlusTicks.htm" />
+        <HelpTOCNode Title="Subtract Method " Url="html/M_NodaTime_LocalTime_Subtract.htm" />
+        <HelpTOCNode Id="a65b2efb-2493-4300-8044-32aeaed634fa" Title="ToString Method " Url="html/Overload_NodaTime_LocalTime_ToString.htm">
+          <HelpTOCNode Title="ToString Method " Url="html/M_NodaTime_LocalTime_ToString.htm" />
+          <HelpTOCNode Title="ToString Method (String, IFormatProvider)" Url="html/M_NodaTime_LocalTime_ToString_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="48523cac-b609-49dc-b80b-f8ae41dbd0f8" Title="LocalTime Operators" Url="html/Operators_T_NodaTime_LocalTime.htm">
+        <HelpTOCNode Title="Addition Operator " Url="html/M_NodaTime_LocalTime_op_Addition.htm" />
+        <HelpTOCNode Title="Equality Operator " Url="html/M_NodaTime_LocalTime_op_Equality.htm" />
+        <HelpTOCNode Title="GreaterThan Operator " Url="html/M_NodaTime_LocalTime_op_GreaterThan.htm" />
+        <HelpTOCNode Title="GreaterThanOrEqual Operator " Url="html/M_NodaTime_LocalTime_op_GreaterThanOrEqual.htm" />
+        <HelpTOCNode Title="Inequality Operator " Url="html/M_NodaTime_LocalTime_op_Inequality.htm" />
+        <HelpTOCNode Title="LessThan Operator " Url="html/M_NodaTime_LocalTime_op_LessThan.htm" />
+        <HelpTOCNode Title="LessThanOrEqual Operator " Url="html/M_NodaTime_LocalTime_op_LessThanOrEqual.htm" />
+        <HelpTOCNode Title="Subtraction Operator " Url="html/M_NodaTime_LocalTime_op_Subtraction.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3783b1df-4cac-4b8c-bc67-e9444c6ad11e" Title="LocalTime Properties" Url="html/Properties_T_NodaTime_LocalTime.htm">
+        <HelpTOCNode Title="ClockHourOfHalfDay Property " Url="html/P_NodaTime_LocalTime_ClockHourOfHalfDay.htm" />
+        <HelpTOCNode Title="Hour Property " Url="html/P_NodaTime_LocalTime_Hour.htm" />
+        <HelpTOCNode Title="LocalDateTime Property " Url="html/P_NodaTime_LocalTime_LocalDateTime.htm" />
+        <HelpTOCNode Title="Millisecond Property " Url="html/P_NodaTime_LocalTime_Millisecond.htm" />
+        <HelpTOCNode Title="Minute Property " Url="html/P_NodaTime_LocalTime_Minute.htm" />
+        <HelpTOCNode Title="Second Property " Url="html/P_NodaTime_LocalTime_Second.htm" />
+        <HelpTOCNode Title="TickOfDay Property " Url="html/P_NodaTime_LocalTime_TickOfDay.htm" />
+        <HelpTOCNode Title="TickOfSecond Property " Url="html/P_NodaTime_LocalTime_TickOfSecond.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1b18e38b-aea9-4c94-a44c-e29c8a55cb1f" Title="NodaConstants Class" Url="html/T_NodaTime_NodaConstants.htm">
+      <HelpTOCNode Title="NodaConstants Members" Url="html/AllMembers_T_NodaTime_NodaConstants.htm" />
+      <HelpTOCNode Id="fcba58c2-6836-4a41-83dd-fe0ba37feda1" Title="NodaConstants Fields" Url="html/Fields_T_NodaTime_NodaConstants.htm">
+        <HelpTOCNode Title="BclEpoch Field" Url="html/F_NodaTime_NodaConstants_BclEpoch.htm" />
+        <HelpTOCNode Title="DaysPerStandardWeek Field" Url="html/F_NodaTime_NodaConstants_DaysPerStandardWeek.htm" />
+        <HelpTOCNode Title="HoursPerStandardDay Field" Url="html/F_NodaTime_NodaConstants_HoursPerStandardDay.htm" />
+        <HelpTOCNode Title="HoursPerStandardWeek Field" Url="html/F_NodaTime_NodaConstants_HoursPerStandardWeek.htm" />
+        <HelpTOCNode Title="MillisecondsPerHour Field" Url="html/F_NodaTime_NodaConstants_MillisecondsPerHour.htm" />
+        <HelpTOCNode Title="MillisecondsPerMinute Field" Url="html/F_NodaTime_NodaConstants_MillisecondsPerMinute.htm" />
+        <HelpTOCNode Title="MillisecondsPerSecond Field" Url="html/F_NodaTime_NodaConstants_MillisecondsPerSecond.htm" />
+        <HelpTOCNode Title="MillisecondsPerStandardDay Field" Url="html/F_NodaTime_NodaConstants_MillisecondsPerStandardDay.htm" />
+        <HelpTOCNode Title="MillisecondsPerStandardWeek Field" Url="html/F_NodaTime_NodaConstants_MillisecondsPerStandardWeek.htm" />
+        <HelpTOCNode Title="MinutesPerHour Field" Url="html/F_NodaTime_NodaConstants_MinutesPerHour.htm" />
+        <HelpTOCNode Title="MinutesPerStandardDay Field" Url="html/F_NodaTime_NodaConstants_MinutesPerStandardDay.htm" />
+        <HelpTOCNode Title="MinutesPerStandardWeek Field" Url="html/F_NodaTime_NodaConstants_MinutesPerStandardWeek.htm" />
+        <HelpTOCNode Title="SecondsPerHour Field" Url="html/F_NodaTime_NodaConstants_SecondsPerHour.htm" />
+        <HelpTOCNode Title="SecondsPerMinute Field" Url="html/F_NodaTime_NodaConstants_SecondsPerMinute.htm" />
+        <HelpTOCNode Title="SecondsPerStandardDay Field" Url="html/F_NodaTime_NodaConstants_SecondsPerStandardDay.htm" />
+        <HelpTOCNode Title="SecondsPerWeek Field" Url="html/F_NodaTime_NodaConstants_SecondsPerWeek.htm" />
+        <HelpTOCNode Title="TicksPerHour Field" Url="html/F_NodaTime_NodaConstants_TicksPerHour.htm" />
+        <HelpTOCNode Title="TicksPerMillisecond Field" Url="html/F_NodaTime_NodaConstants_TicksPerMillisecond.htm" />
+        <HelpTOCNode Title="TicksPerMinute Field" Url="html/F_NodaTime_NodaConstants_TicksPerMinute.htm" />
+        <HelpTOCNode Title="TicksPerSecond Field" Url="html/F_NodaTime_NodaConstants_TicksPerSecond.htm" />
+        <HelpTOCNode Title="TicksPerStandardDay Field" Url="html/F_NodaTime_NodaConstants_TicksPerStandardDay.htm" />
+        <HelpTOCNode Title="TicksPerStandardWeek Field" Url="html/F_NodaTime_NodaConstants_TicksPerStandardWeek.htm" />
+        <HelpTOCNode Title="UnixEpoch Field" Url="html/F_NodaTime_NodaConstants_UnixEpoch.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="480ac3cb-4cbf-4a0b-8251-e4a43fb02401" Title="Offset Structure" Url="html/T_NodaTime_Offset.htm">
+      <HelpTOCNode Title="Offset Members" Url="html/AllMembers_T_NodaTime_Offset.htm" />
+      <HelpTOCNode Id="8389e701-502d-44bc-8241-3f102125c050" Title="Offset Fields" Url="html/Fields_T_NodaTime_Offset.htm">
+        <HelpTOCNode Title="MaxValue Field" Url="html/F_NodaTime_Offset_MaxValue.htm" />
+        <HelpTOCNode Title="MinValue Field" Url="html/F_NodaTime_Offset_MinValue.htm" />
+        <HelpTOCNode Title="Zero Field" Url="html/F_NodaTime_Offset_Zero.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="339adb18-fc26-4579-b7b2-bf91c52eeb70" Title="Offset Methods" Url="html/Methods_T_NodaTime_Offset.htm">
+        <HelpTOCNode Title="Add Method " Url="html/M_NodaTime_Offset_Add.htm" />
+        <HelpTOCNode Title="CompareTo Method " Url="html/M_NodaTime_Offset_CompareTo.htm" />
+        <HelpTOCNode Id="4859beb3-70da-4f09-8b01-a3ddb6e1696f" Title="Equals Method " Url="html/Overload_NodaTime_Offset_Equals.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/M_NodaTime_Offset_Equals_1.htm" />
+          <HelpTOCNode Title="Equals Method (Offset)" Url="html/M_NodaTime_Offset_Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FromHours Method " Url="html/M_NodaTime_Offset_FromHours.htm" />
+        <HelpTOCNode Title="FromHoursAndMinutes Method " Url="html/M_NodaTime_Offset_FromHoursAndMinutes.htm" />
+        <HelpTOCNode Title="FromMilliseconds Method " Url="html/M_NodaTime_Offset_FromMilliseconds.htm" />
+        <HelpTOCNode Title="FromTicks Method " Url="html/M_NodaTime_Offset_FromTicks.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_Offset_GetHashCode.htm" />
+        <HelpTOCNode Title="Max Method " Url="html/M_NodaTime_Offset_Max.htm" />
+        <HelpTOCNode Title="Min Method " Url="html/M_NodaTime_Offset_Min.htm" />
+        <HelpTOCNode Title="Minus Method " Url="html/M_NodaTime_Offset_Minus.htm" />
+        <HelpTOCNode Title="Negate Method " Url="html/M_NodaTime_Offset_Negate.htm" />
+        <HelpTOCNode Title="Plus Method " Url="html/M_NodaTime_Offset_Plus.htm" />
+        <HelpTOCNode Title="Subtract Method " Url="html/M_NodaTime_Offset_Subtract.htm" />
+        <HelpTOCNode Id="fe8f6923-eda6-4d4a-8e0f-257c5924e05f" Title="ToString Method " Url="html/Overload_NodaTime_Offset_ToString.htm">
+          <HelpTOCNode Title="ToString Method " Url="html/M_NodaTime_Offset_ToString.htm" />
+          <HelpTOCNode Title="ToString Method (String, IFormatProvider)" Url="html/M_NodaTime_Offset_ToString_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ToTimeSpan Method " Url="html/M_NodaTime_Offset_ToTimeSpan.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5f9ee8ec-eb0d-4a1b-83ff-2b9febe450ab" Title="Offset Operators" Url="html/Operators_T_NodaTime_Offset.htm">
+        <HelpTOCNode Title="Addition Operator " Url="html/M_NodaTime_Offset_op_Addition.htm" />
+        <HelpTOCNode Title="Equality Operator " Url="html/M_NodaTime_Offset_op_Equality.htm" />
+        <HelpTOCNode Title="GreaterThan Operator " Url="html/M_NodaTime_Offset_op_GreaterThan.htm" />
+        <HelpTOCNode Title="GreaterThanOrEqual Operator " Url="html/M_NodaTime_Offset_op_GreaterThanOrEqual.htm" />
+        <HelpTOCNode Title="Inequality Operator " Url="html/M_NodaTime_Offset_op_Inequality.htm" />
+        <HelpTOCNode Title="LessThan Operator " Url="html/M_NodaTime_Offset_op_LessThan.htm" />
+        <HelpTOCNode Title="LessThanOrEqual Operator " Url="html/M_NodaTime_Offset_op_LessThanOrEqual.htm" />
+        <HelpTOCNode Title="Subtraction Operator " Url="html/M_NodaTime_Offset_op_Subtraction.htm" />
+        <HelpTOCNode Title="UnaryNegation Operator " Url="html/M_NodaTime_Offset_op_UnaryNegation.htm" />
+        <HelpTOCNode Title="UnaryPlus Operator " Url="html/M_NodaTime_Offset_op_UnaryPlus.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="353e020b-99e9-4b52-8394-214005c31ae9" Title="Offset Properties" Url="html/Properties_T_NodaTime_Offset.htm">
+        <HelpTOCNode Title="Milliseconds Property " Url="html/P_NodaTime_Offset_Milliseconds.htm" />
+        <HelpTOCNode Title="Ticks Property " Url="html/P_NodaTime_Offset_Ticks.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b6a775ae-7992-4f6a-8e03-7e742932190f" Title="OffsetDateTime Structure" Url="html/T_NodaTime_OffsetDateTime.htm">
+      <HelpTOCNode Title="OffsetDateTime Members" Url="html/AllMembers_T_NodaTime_OffsetDateTime.htm" />
+      <HelpTOCNode Title="OffsetDateTime Constructor " Url="html/M_NodaTime_OffsetDateTime__ctor.htm" />
+      <HelpTOCNode Id="01a7ba73-f72d-4672-a7bd-6055c7469b4e" Title="OffsetDateTime Methods" Url="html/Methods_T_NodaTime_OffsetDateTime.htm">
+        <HelpTOCNode Id="13f96a99-ddaf-41b5-9fee-ce00ac21d10b" Title="Equals Method " Url="html/Overload_NodaTime_OffsetDateTime_Equals.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/M_NodaTime_OffsetDateTime_Equals_1.htm" />
+          <HelpTOCNode Title="Equals Method (OffsetDateTime)" Url="html/M_NodaTime_OffsetDateTime_Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FromDateTimeOffset Method " Url="html/M_NodaTime_OffsetDateTime_FromDateTimeOffset.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_OffsetDateTime_GetHashCode.htm" />
+        <HelpTOCNode Title="InFixedZone Method " Url="html/M_NodaTime_OffsetDateTime_InFixedZone.htm" />
+        <HelpTOCNode Title="ToDateTimeOffset Method " Url="html/M_NodaTime_OffsetDateTime_ToDateTimeOffset.htm" />
+        <HelpTOCNode Title="ToInstant Method " Url="html/M_NodaTime_OffsetDateTime_ToInstant.htm" />
+        <HelpTOCNode Id="411dc9e0-b51a-4aa0-841a-5586c453a042" Title="ToString Method " Url="html/Overload_NodaTime_OffsetDateTime_ToString.htm">
+          <HelpTOCNode Title="ToString Method " Url="html/M_NodaTime_OffsetDateTime_ToString.htm" />
+          <HelpTOCNode Title="ToString Method (String, IFormatProvider)" Url="html/M_NodaTime_OffsetDateTime_ToString_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="WithCalendar Method " Url="html/M_NodaTime_OffsetDateTime_WithCalendar.htm" />
+        <HelpTOCNode Title="WithOffset Method " Url="html/M_NodaTime_OffsetDateTime_WithOffset.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="66ffc00b-8d1e-46db-b37e-099946012766" Title="OffsetDateTime Operators" Url="html/Operators_T_NodaTime_OffsetDateTime.htm">
+        <HelpTOCNode Title="Equality Operator " Url="html/M_NodaTime_OffsetDateTime_op_Equality.htm" />
+        <HelpTOCNode Title="Inequality Operator " Url="html/M_NodaTime_OffsetDateTime_op_Inequality.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bb10575c-7b16-4b86-b9e1-deff58284436" Title="OffsetDateTime Properties" Url="html/Properties_T_NodaTime_OffsetDateTime.htm">
+        <HelpTOCNode Title="Calendar Property " Url="html/P_NodaTime_OffsetDateTime_Calendar.htm" />
+        <HelpTOCNode Title="ClockHourOfHalfDay Property " Url="html/P_NodaTime_OffsetDateTime_ClockHourOfHalfDay.htm" />
+        <HelpTOCNode Title="Date Property " Url="html/P_NodaTime_OffsetDateTime_Date.htm" />
+        <HelpTOCNode Title="Day Property " Url="html/P_NodaTime_OffsetDateTime_Day.htm" />
+        <HelpTOCNode Title="DayOfWeek Property " Url="html/P_NodaTime_OffsetDateTime_DayOfWeek.htm" />
+        <HelpTOCNode Title="DayOfYear Property " Url="html/P_NodaTime_OffsetDateTime_DayOfYear.htm" />
+        <HelpTOCNode Title="Era Property " Url="html/P_NodaTime_OffsetDateTime_Era.htm" />
+        <HelpTOCNode Title="Hour Property " Url="html/P_NodaTime_OffsetDateTime_Hour.htm" />
+        <HelpTOCNode Title="IsoDayOfWeek Property " Url="html/P_NodaTime_OffsetDateTime_IsoDayOfWeek.htm" />
+        <HelpTOCNode Title="LocalDateTime Property " Url="html/P_NodaTime_OffsetDateTime_LocalDateTime.htm" />
+        <HelpTOCNode Title="Millisecond Property " Url="html/P_NodaTime_OffsetDateTime_Millisecond.htm" />
+        <HelpTOCNode Title="Minute Property " Url="html/P_NodaTime_OffsetDateTime_Minute.htm" />
+        <HelpTOCNode Title="Month Property " Url="html/P_NodaTime_OffsetDateTime_Month.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_NodaTime_OffsetDateTime_Offset.htm" />
+        <HelpTOCNode Title="Second Property " Url="html/P_NodaTime_OffsetDateTime_Second.htm" />
+        <HelpTOCNode Title="TickOfDay Property " Url="html/P_NodaTime_OffsetDateTime_TickOfDay.htm" />
+        <HelpTOCNode Title="TickOfSecond Property " Url="html/P_NodaTime_OffsetDateTime_TickOfSecond.htm" />
+        <HelpTOCNode Title="TimeOfDay Property " Url="html/P_NodaTime_OffsetDateTime_TimeOfDay.htm" />
+        <HelpTOCNode Title="WeekOfWeekYear Property " Url="html/P_NodaTime_OffsetDateTime_WeekOfWeekYear.htm" />
+        <HelpTOCNode Title="WeekYear Property " Url="html/P_NodaTime_OffsetDateTime_WeekYear.htm" />
+        <HelpTOCNode Title="Year Property " Url="html/P_NodaTime_OffsetDateTime_Year.htm" />
+        <HelpTOCNode Title="YearOfCentury Property " Url="html/P_NodaTime_OffsetDateTime_YearOfCentury.htm" />
+        <HelpTOCNode Title="YearOfEra Property " Url="html/P_NodaTime_OffsetDateTime_YearOfEra.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b2bfbdc2-4d05-42c3-95ba-fb722253ed2c" Title="OffsetDateTime.Comparer Class" Url="html/T_NodaTime_OffsetDateTime_Comparer.htm">
+      <HelpTOCNode Title="OffsetDateTime.Comparer Members" Url="html/AllMembers_T_NodaTime_OffsetDateTime_Comparer.htm" />
+      <HelpTOCNode Id="1f9a3361-887a-4da9-8bd6-ee72f2cbfcfe" Title="OffsetDateTime.Comparer Methods" Url="html/Methods_T_NodaTime_OffsetDateTime_Comparer.htm">
+        <HelpTOCNode Title="Compare Method " Url="html/M_NodaTime_OffsetDateTime_Comparer_Compare.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="086168c2-f2fd-4f8b-9300-33a91eca7366" Title="OffsetDateTime.Comparer Properties" Url="html/Properties_T_NodaTime_OffsetDateTime_Comparer.htm">
+        <HelpTOCNode Title="Instant Property " Url="html/P_NodaTime_OffsetDateTime_Comparer_Instant.htm" />
+        <HelpTOCNode Title="Local Property " Url="html/P_NodaTime_OffsetDateTime_Comparer_Local.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="be5e6973-650f-4dff-8dbe-dab968080e1e" Title="Period Class" Url="html/T_NodaTime_Period.htm">
+      <HelpTOCNode Title="Period Members" Url="html/AllMembers_T_NodaTime_Period.htm" />
+      <HelpTOCNode Id="cb1468d5-f3be-4686-91fd-ea8b46924b00" Title="Period Fields" Url="html/Fields_T_NodaTime_Period.htm">
+        <HelpTOCNode Title="Zero Field" Url="html/F_NodaTime_Period_Zero.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f4a09f40-b082-4ee4-b95a-e6e690274963" Title="Period Methods" Url="html/Methods_T_NodaTime_Period.htm">
+        <HelpTOCNode Id="7972e640-6020-4a7c-81db-60ead9517a36" Title="Between Method " Url="html/Overload_NodaTime_Period_Between.htm">
+          <HelpTOCNode Title="Between Method (LocalDate, LocalDate)" Url="html/M_NodaTime_Period_Between.htm" />
+          <HelpTOCNode Title="Between Method (LocalDateTime, LocalDateTime)" Url="html/M_NodaTime_Period_Between_2.htm" />
+          <HelpTOCNode Title="Between Method (LocalTime, LocalTime)" Url="html/M_NodaTime_Period_Between_4.htm" />
+          <HelpTOCNode Title="Between Method (LocalDate, LocalDate, PeriodUnits)" Url="html/M_NodaTime_Period_Between_1.htm" />
+          <HelpTOCNode Title="Between Method (LocalDateTime, LocalDateTime, PeriodUnits)" Url="html/M_NodaTime_Period_Between_3.htm" />
+          <HelpTOCNode Title="Between Method (LocalTime, LocalTime, PeriodUnits)" Url="html/M_NodaTime_Period_Between_5.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CreateComparer Method " Url="html/M_NodaTime_Period_CreateComparer.htm" />
+        <HelpTOCNode Id="1c237866-3c32-4c68-9684-33893926d19c" Title="Equals Method " Url="html/Overload_NodaTime_Period_Equals.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/M_NodaTime_Period_Equals_1.htm" />
+          <HelpTOCNode Title="Equals Method (Period)" Url="html/M_NodaTime_Period_Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FromDays Method " Url="html/M_NodaTime_Period_FromDays.htm" />
+        <HelpTOCNode Title="FromHours Method " Url="html/M_NodaTime_Period_FromHours.htm" />
+        <HelpTOCNode Title="FromMilliseconds Method " Url="html/M_NodaTime_Period_FromMilliseconds.htm" />
+        <HelpTOCNode Title="FromMillseconds Method " Url="html/M_NodaTime_Period_FromMillseconds.htm" />
+        <HelpTOCNode Title="FromMinutes Method " Url="html/M_NodaTime_Period_FromMinutes.htm" />
+        <HelpTOCNode Title="FromMonths Method " Url="html/M_NodaTime_Period_FromMonths.htm" />
+        <HelpTOCNode Title="FromSeconds Method " Url="html/M_NodaTime_Period_FromSeconds.htm" />
+        <HelpTOCNode Title="FromTicks Method " Url="html/M_NodaTime_Period_FromTicks.htm" />
+        <HelpTOCNode Title="FromWeeks Method " Url="html/M_NodaTime_Period_FromWeeks.htm" />
+        <HelpTOCNode Title="FromYears Method " Url="html/M_NodaTime_Period_FromYears.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_Period_GetHashCode.htm" />
+        <HelpTOCNode Title="Normalize Method " Url="html/M_NodaTime_Period_Normalize.htm" />
+        <HelpTOCNode Title="ToBuilder Method " Url="html/M_NodaTime_Period_ToBuilder.htm" />
+        <HelpTOCNode Title="ToDuration Method " Url="html/M_NodaTime_Period_ToDuration.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M_NodaTime_Period_ToString.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3092b8f7-22b9-4957-9da0-d387a099d7c8" Title="Period Operators" Url="html/Operators_T_NodaTime_Period.htm">
+        <HelpTOCNode Title="Addition Operator " Url="html/M_NodaTime_Period_op_Addition.htm" />
+        <HelpTOCNode Title="Subtraction Operator " Url="html/M_NodaTime_Period_op_Subtraction.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="80406f35-63d0-4310-a414-4923b0bef5ac" Title="Period Properties" Url="html/Properties_T_NodaTime_Period.htm">
+        <HelpTOCNode Title="Days Property " Url="html/P_NodaTime_Period_Days.htm" />
+        <HelpTOCNode Title="HasDateComponent Property " Url="html/P_NodaTime_Period_HasDateComponent.htm" />
+        <HelpTOCNode Title="HasTimeComponent Property " Url="html/P_NodaTime_Period_HasTimeComponent.htm" />
+        <HelpTOCNode Title="Hours Property " Url="html/P_NodaTime_Period_Hours.htm" />
+        <HelpTOCNode Title="Milliseconds Property " Url="html/P_NodaTime_Period_Milliseconds.htm" />
+        <HelpTOCNode Title="Minutes Property " Url="html/P_NodaTime_Period_Minutes.htm" />
+        <HelpTOCNode Title="Months Property " Url="html/P_NodaTime_Period_Months.htm" />
+        <HelpTOCNode Title="NormalizingEqualityComparer Property " Url="html/P_NodaTime_Period_NormalizingEqualityComparer.htm" />
+        <HelpTOCNode Title="Seconds Property " Url="html/P_NodaTime_Period_Seconds.htm" />
+        <HelpTOCNode Title="Ticks Property " Url="html/P_NodaTime_Period_Ticks.htm" />
+        <HelpTOCNode Title="Weeks Property " Url="html/P_NodaTime_Period_Weeks.htm" />
+        <HelpTOCNode Title="Years Property " Url="html/P_NodaTime_Period_Years.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d83ba6c8-98f1-474a-9694-4f759cd62572" Title="PeriodBuilder Class" Url="html/T_NodaTime_PeriodBuilder.htm">
+      <HelpTOCNode Title="PeriodBuilder Members" Url="html/AllMembers_T_NodaTime_PeriodBuilder.htm" />
+      <HelpTOCNode Id="0e9bff8d-5b5a-4a00-b767-9822d85631f4" Title="PeriodBuilder Constructor " Url="html/Overload_NodaTime_PeriodBuilder__ctor.htm">
+        <HelpTOCNode Title="PeriodBuilder Constructor " Url="html/M_NodaTime_PeriodBuilder__ctor.htm" />
+        <HelpTOCNode Title="PeriodBuilder Constructor (Period)" Url="html/M_NodaTime_PeriodBuilder__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2b314ca3-fafa-424a-869b-11b457cde985" Title="PeriodBuilder Methods" Url="html/Methods_T_NodaTime_PeriodBuilder.htm">
+        <HelpTOCNode Title="Build Method " Url="html/M_NodaTime_PeriodBuilder_Build.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c1f51c33-12a5-4669-9784-2ef4f1f188e1" Title="PeriodBuilder Properties" Url="html/Properties_T_NodaTime_PeriodBuilder.htm">
+        <HelpTOCNode Title="Days Property " Url="html/P_NodaTime_PeriodBuilder_Days.htm" />
+        <HelpTOCNode Title="Hours Property " Url="html/P_NodaTime_PeriodBuilder_Hours.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/P_NodaTime_PeriodBuilder_Item.htm" />
+        <HelpTOCNode Title="Milliseconds Property " Url="html/P_NodaTime_PeriodBuilder_Milliseconds.htm" />
+        <HelpTOCNode Title="Minutes Property " Url="html/P_NodaTime_PeriodBuilder_Minutes.htm" />
+        <HelpTOCNode Title="Months Property " Url="html/P_NodaTime_PeriodBuilder_Months.htm" />
+        <HelpTOCNode Title="Seconds Property " Url="html/P_NodaTime_PeriodBuilder_Seconds.htm" />
+        <HelpTOCNode Title="Ticks Property " Url="html/P_NodaTime_PeriodBuilder_Ticks.htm" />
+        <HelpTOCNode Title="Weeks Property " Url="html/P_NodaTime_PeriodBuilder_Weeks.htm" />
+        <HelpTOCNode Title="Years Property " Url="html/P_NodaTime_PeriodBuilder_Years.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="PeriodUnits Enumeration" Url="html/T_NodaTime_PeriodUnits.htm" />
+    <HelpTOCNode Id="3312cdde-c68a-4960-8bce-fb6e64241df2" Title="SkippedTimeException Class" Url="html/T_NodaTime_SkippedTimeException.htm">
+      <HelpTOCNode Title="SkippedTimeException Members" Url="html/AllMembers_T_NodaTime_SkippedTimeException.htm" />
+      <HelpTOCNode Title="SkippedTimeException Constructor " Url="html/M_NodaTime_SkippedTimeException__ctor.htm" />
+      <HelpTOCNode Id="16ed29c3-550b-4122-9556-c3698d34d85e" Title="SkippedTimeException Properties" Url="html/Properties_T_NodaTime_SkippedTimeException.htm">
+        <HelpTOCNode Title="LocalDateTime Property " Url="html/P_NodaTime_SkippedTimeException_LocalDateTime.htm" />
+        <HelpTOCNode Title="Zone Property " Url="html/P_NodaTime_SkippedTimeException_Zone.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="26067c19-8b7b-4356-ab2f-563b4798443e" Title="SystemClock Class" Url="html/T_NodaTime_SystemClock.htm">
+      <HelpTOCNode Title="SystemClock Members" Url="html/AllMembers_T_NodaTime_SystemClock.htm" />
+      <HelpTOCNode Id="65f1fb0b-6455-49dc-a3e2-3caf3cc23096" Title="SystemClock Fields" Url="html/Fields_T_NodaTime_SystemClock.htm">
+        <HelpTOCNode Title="Instance Field" Url="html/F_NodaTime_SystemClock_Instance.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ce8be828-2f9e-4e03-a780-a2f2ed61e7e2" Title="SystemClock Properties" Url="html/Properties_T_NodaTime_SystemClock.htm">
+        <HelpTOCNode Title="Now Property " Url="html/P_NodaTime_SystemClock_Now.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a546864d-a0b0-4a61-948b-b80ecaf6bb0a" Title="ZonedDateTime Structure" Url="html/T_NodaTime_ZonedDateTime.htm">
+      <HelpTOCNode Title="ZonedDateTime Members" Url="html/AllMembers_T_NodaTime_ZonedDateTime.htm" />
+      <HelpTOCNode Id="9451f9cf-e1a0-4f64-b1bb-e61a12c72ab1" Title="ZonedDateTime Constructor " Url="html/Overload_NodaTime_ZonedDateTime__ctor.htm">
+        <HelpTOCNode Title="ZonedDateTime Constructor (Instant, DateTimeZone)" Url="html/M_NodaTime_ZonedDateTime__ctor.htm" />
+        <HelpTOCNode Title="ZonedDateTime Constructor (Instant, DateTimeZone, CalendarSystem)" Url="html/M_NodaTime_ZonedDateTime__ctor_1.htm" />
+        <HelpTOCNode Title="ZonedDateTime Constructor (LocalDateTime, DateTimeZone, Offset)" Url="html/M_NodaTime_ZonedDateTime__ctor_2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="236d354b-8865-4797-9c85-b5045f0dcb9c" Title="ZonedDateTime Methods" Url="html/Methods_T_NodaTime_ZonedDateTime.htm">
+        <HelpTOCNode Title="Add Method " Url="html/M_NodaTime_ZonedDateTime_Add.htm" />
+        <HelpTOCNode Title="CompareTo Method " Url="html/M_NodaTime_ZonedDateTime_CompareTo.htm" />
+        <HelpTOCNode Id="ca1b6003-65fe-4905-b719-1727277a6453" Title="Equals Method " Url="html/Overload_NodaTime_ZonedDateTime_Equals.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/M_NodaTime_ZonedDateTime_Equals_1.htm" />
+          <HelpTOCNode Title="Equals Method (ZonedDateTime)" Url="html/M_NodaTime_ZonedDateTime_Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FromDateTimeOffset Method " Url="html/M_NodaTime_ZonedDateTime_FromDateTimeOffset.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_ZonedDateTime_GetHashCode.htm" />
+        <HelpTOCNode Title="GetZoneInterval Method " Url="html/M_NodaTime_ZonedDateTime_GetZoneInterval.htm" />
+        <HelpTOCNode Title="IsDaylightSavingTime Method " Url="html/M_NodaTime_ZonedDateTime_IsDaylightSavingTime.htm" />
+        <HelpTOCNode Title="Minus Method " Url="html/M_NodaTime_ZonedDateTime_Minus.htm" />
+        <HelpTOCNode Title="Plus Method " Url="html/M_NodaTime_ZonedDateTime_Plus.htm" />
+        <HelpTOCNode Title="Subtract Method " Url="html/M_NodaTime_ZonedDateTime_Subtract.htm" />
+        <HelpTOCNode Title="ToDateTimeOffset Method " Url="html/M_NodaTime_ZonedDateTime_ToDateTimeOffset.htm" />
+        <HelpTOCNode Title="ToDateTimeUnspecified Method " Url="html/M_NodaTime_ZonedDateTime_ToDateTimeUnspecified.htm" />
+        <HelpTOCNode Title="ToDateTimeUtc Method " Url="html/M_NodaTime_ZonedDateTime_ToDateTimeUtc.htm" />
+        <HelpTOCNode Title="ToInstant Method " Url="html/M_NodaTime_ZonedDateTime_ToInstant.htm" />
+        <HelpTOCNode Title="ToOffsetDateTime Method " Url="html/M_NodaTime_ZonedDateTime_ToOffsetDateTime.htm" />
+        <HelpTOCNode Id="1ad699dd-e88e-49cd-acd1-4b591642e7ae" Title="ToString Method " Url="html/Overload_NodaTime_ZonedDateTime_ToString.htm">
+          <HelpTOCNode Title="ToString Method " Url="html/M_NodaTime_ZonedDateTime_ToString.htm" />
+          <HelpTOCNode Title="ToString Method (String, IFormatProvider)" Url="html/M_NodaTime_ZonedDateTime_ToString_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="WithZone Method " Url="html/M_NodaTime_ZonedDateTime_WithZone.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7ff43e33-d9e0-4a5a-9778-720ce6528c1a" Title="ZonedDateTime Operators" Url="html/Operators_T_NodaTime_ZonedDateTime.htm">
+        <HelpTOCNode Title="Addition Operator " Url="html/M_NodaTime_ZonedDateTime_op_Addition.htm" />
+        <HelpTOCNode Title="Equality Operator " Url="html/M_NodaTime_ZonedDateTime_op_Equality.htm" />
+        <HelpTOCNode Title="GreaterThan Operator " Url="html/M_NodaTime_ZonedDateTime_op_GreaterThan.htm" />
+        <HelpTOCNode Title="GreaterThanOrEqual Operator " Url="html/M_NodaTime_ZonedDateTime_op_GreaterThanOrEqual.htm" />
+        <HelpTOCNode Title="Inequality Operator " Url="html/M_NodaTime_ZonedDateTime_op_Inequality.htm" />
+        <HelpTOCNode Title="LessThan Operator " Url="html/M_NodaTime_ZonedDateTime_op_LessThan.htm" />
+        <HelpTOCNode Title="LessThanOrEqual Operator " Url="html/M_NodaTime_ZonedDateTime_op_LessThanOrEqual.htm" />
+        <HelpTOCNode Title="Subtraction Operator " Url="html/M_NodaTime_ZonedDateTime_op_Subtraction.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e094119e-0786-49cc-9f66-312c1c2fdf7a" Title="ZonedDateTime Properties" Url="html/Properties_T_NodaTime_ZonedDateTime.htm">
+        <HelpTOCNode Title="Calendar Property " Url="html/P_NodaTime_ZonedDateTime_Calendar.htm" />
+        <HelpTOCNode Title="CenturyOfEra Property " Url="html/P_NodaTime_ZonedDateTime_CenturyOfEra.htm" />
+        <HelpTOCNode Title="ClockHourOfHalfDay Property " Url="html/P_NodaTime_ZonedDateTime_ClockHourOfHalfDay.htm" />
+        <HelpTOCNode Title="Date Property " Url="html/P_NodaTime_ZonedDateTime_Date.htm" />
+        <HelpTOCNode Title="Day Property " Url="html/P_NodaTime_ZonedDateTime_Day.htm" />
+        <HelpTOCNode Title="DayOfWeek Property " Url="html/P_NodaTime_ZonedDateTime_DayOfWeek.htm" />
+        <HelpTOCNode Title="DayOfYear Property " Url="html/P_NodaTime_ZonedDateTime_DayOfYear.htm" />
+        <HelpTOCNode Title="Era Property " Url="html/P_NodaTime_ZonedDateTime_Era.htm" />
+        <HelpTOCNode Title="Hour Property " Url="html/P_NodaTime_ZonedDateTime_Hour.htm" />
+        <HelpTOCNode Title="IsoDayOfWeek Property " Url="html/P_NodaTime_ZonedDateTime_IsoDayOfWeek.htm" />
+        <HelpTOCNode Title="LocalDateTime Property " Url="html/P_NodaTime_ZonedDateTime_LocalDateTime.htm" />
+        <HelpTOCNode Title="Millisecond Property " Url="html/P_NodaTime_ZonedDateTime_Millisecond.htm" />
+        <HelpTOCNode Title="Minute Property " Url="html/P_NodaTime_ZonedDateTime_Minute.htm" />
+        <HelpTOCNode Title="Month Property " Url="html/P_NodaTime_ZonedDateTime_Month.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_NodaTime_ZonedDateTime_Offset.htm" />
+        <HelpTOCNode Title="Second Property " Url="html/P_NodaTime_ZonedDateTime_Second.htm" />
+        <HelpTOCNode Title="TickOfDay Property " Url="html/P_NodaTime_ZonedDateTime_TickOfDay.htm" />
+        <HelpTOCNode Title="TickOfSecond Property " Url="html/P_NodaTime_ZonedDateTime_TickOfSecond.htm" />
+        <HelpTOCNode Title="TimeOfDay Property " Url="html/P_NodaTime_ZonedDateTime_TimeOfDay.htm" />
+        <HelpTOCNode Title="WeekOfWeekYear Property " Url="html/P_NodaTime_ZonedDateTime_WeekOfWeekYear.htm" />
+        <HelpTOCNode Title="WeekYear Property " Url="html/P_NodaTime_ZonedDateTime_WeekYear.htm" />
+        <HelpTOCNode Title="Year Property " Url="html/P_NodaTime_ZonedDateTime_Year.htm" />
+        <HelpTOCNode Title="YearOfCentury Property " Url="html/P_NodaTime_ZonedDateTime_YearOfCentury.htm" />
+        <HelpTOCNode Title="YearOfEra Property " Url="html/P_NodaTime_ZonedDateTime_YearOfEra.htm" />
+        <HelpTOCNode Title="Zone Property " Url="html/P_NodaTime_ZonedDateTime_Zone.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="eaaa57df-705b-431c-8c54-83842384e6c5" Title="ZonedDateTime.Comparer Class" Url="html/T_NodaTime_ZonedDateTime_Comparer.htm">
+      <HelpTOCNode Title="ZonedDateTime.Comparer Members" Url="html/AllMembers_T_NodaTime_ZonedDateTime_Comparer.htm" />
+      <HelpTOCNode Id="abd419e0-0a3c-4036-bad7-53939ef04b01" Title="ZonedDateTime.Comparer Methods" Url="html/Methods_T_NodaTime_ZonedDateTime_Comparer.htm">
+        <HelpTOCNode Title="Compare Method " Url="html/M_NodaTime_ZonedDateTime_Comparer_Compare.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="72694649-0c6d-4965-b10a-2a1125ca6077" Title="ZonedDateTime.Comparer Properties" Url="html/Properties_T_NodaTime_ZonedDateTime_Comparer.htm">
+        <HelpTOCNode Title="Instant Property " Url="html/P_NodaTime_ZonedDateTime_Comparer_Instant.htm" />
+        <HelpTOCNode Title="Local Property " Url="html/P_NodaTime_ZonedDateTime_Comparer_Local.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="42889fe8-2c6f-48eb-bde2-f2ec4371c9c1" Title="NodaTime.Calendars Namespace" Url="html/N_NodaTime_Calendars.htm">
+    <HelpTOCNode Id="7c51180c-c525-4ab7-b135-619afe337cf7" Title="Era Class" Url="html/T_NodaTime_Calendars_Era.htm">
+      <HelpTOCNode Title="Era Members" Url="html/AllMembers_T_NodaTime_Calendars_Era.htm" />
+      <HelpTOCNode Id="e2b5e012-9058-483f-bc19-0de52c3c5b63" Title="Era Fields" Url="html/Fields_T_NodaTime_Calendars_Era.htm">
+        <HelpTOCNode Title="AnnoHegirae Field" Url="html/F_NodaTime_Calendars_Era_AnnoHegirae.htm" />
+        <HelpTOCNode Title="AnnoMartyrm Field" Url="html/F_NodaTime_Calendars_Era_AnnoMartyrm.htm" />
+        <HelpTOCNode Title="AnnoMartyrum Field" Url="html/F_NodaTime_Calendars_Era_AnnoMartyrum.htm" />
+        <HelpTOCNode Title="AnnoMundi Field" Url="html/F_NodaTime_Calendars_Era_AnnoMundi.htm" />
+        <HelpTOCNode Title="AnnoPersico Field" Url="html/F_NodaTime_Calendars_Era_AnnoPersico.htm" />
+        <HelpTOCNode Title="BeforeCommon Field" Url="html/F_NodaTime_Calendars_Era_BeforeCommon.htm" />
+        <HelpTOCNode Title="Common Field" Url="html/F_NodaTime_Calendars_Era_Common.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0d98143b-12ed-45e9-b834-c5afc0dde0d9" Title="Era Methods" Url="html/Methods_T_NodaTime_Calendars_Era.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/M_NodaTime_Calendars_Era_ToString.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b191cff7-339a-4bef-b016-efaa007da21b" Title="Era Properties" Url="html/Properties_T_NodaTime_Calendars_Era.htm">
+        <HelpTOCNode Title="Name Property " Url="html/P_NodaTime_Calendars_Era_Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="HebrewMonthNumbering Enumeration" Url="html/T_NodaTime_Calendars_HebrewMonthNumbering.htm" />
+    <HelpTOCNode Title="IslamicEpoch Enumeration" Url="html/T_NodaTime_Calendars_IslamicEpoch.htm" />
+    <HelpTOCNode Title="IslamicLeapYearPattern Enumeration" Url="html/T_NodaTime_Calendars_IslamicLeapYearPattern.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="27c7b186-5ce8-46f5-ac8e-c1cf38137106" Title="NodaTime.Serialization.JsonNet Namespace" Url="html/N_NodaTime_Serialization_JsonNet.htm">
+    <HelpTOCNode Id="b1a5e868-8a93-4e79-b31b-040ed098eff0" Title="Extensions Class" Url="html/T_NodaTime_Serialization_JsonNet_Extensions.htm">
+      <HelpTOCNode Title="Extensions Members" Url="html/AllMembers_T_NodaTime_Serialization_JsonNet_Extensions.htm" />
+      <HelpTOCNode Id="2a832dac-b06d-4148-a3f7-b9ac05b58f28" Title="Extensions Methods" Url="html/Methods_T_NodaTime_Serialization_JsonNet_Extensions.htm">
+        <HelpTOCNode Id="96ada8a4-0cc0-43c3-967f-767afa87d21a" Title="ConfigureForNodaTime Method " Url="html/Overload_NodaTime_Serialization_JsonNet_Extensions_ConfigureForNodaTime.htm">
+          <HelpTOCNode Title="ConfigureForNodaTime Method (, IDateTimeZoneProvider)" Url="html/M_NodaTime_Serialization_JsonNet_Extensions_ConfigureForNodaTime.htm" />
+          <HelpTOCNode Title="ConfigureForNodaTime Method (, IDateTimeZoneProvider)" Url="html/M_NodaTime_Serialization_JsonNet_Extensions_ConfigureForNodaTime_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="20f7e11c-798a-4c00-b911-12b94ad72bec" Title="WithIsoIntervalConverter Method " Url="html/Overload_NodaTime_Serialization_JsonNet_Extensions_WithIsoIntervalConverter.htm">
+          <HelpTOCNode Title="WithIsoIntervalConverter Method ()" Url="html/M_NodaTime_Serialization_JsonNet_Extensions_WithIsoIntervalConverter.htm" />
+          <HelpTOCNode Title="WithIsoIntervalConverter Method ()" Url="html/M_NodaTime_Serialization_JsonNet_Extensions_WithIsoIntervalConverter_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6b7e533f-7cc1-4b19-afaa-f13a9326dd5e" Title="NodaConverterBase(T) Class" Url="html/T_NodaTime_Serialization_JsonNet_NodaConverterBase_1.htm">
+      <HelpTOCNode Title="NodaConverterBase(T) Members" Url="html/AllMembers_T_NodaTime_Serialization_JsonNet_NodaConverterBase_1.htm" />
+      <HelpTOCNode Title="NodaConverterBase(T) Constructor " Url="html/M_NodaTime_Serialization_JsonNet_NodaConverterBase_1__ctor.htm" />
+      <HelpTOCNode Id="6ae093e5-8d40-41cd-995c-ddab2e9db26a" Title="NodaConverterBase(T) Methods" Url="html/Methods_T_NodaTime_Serialization_JsonNet_NodaConverterBase_1.htm">
+        <HelpTOCNode Title="CanConvert Method " Url="html/M_NodaTime_Serialization_JsonNet_NodaConverterBase_1_CanConvert.htm" />
+        <HelpTOCNode Title="ReadJson Method " Url="html/M_NodaTime_Serialization_JsonNet_NodaConverterBase_1_ReadJson.htm" />
+        <HelpTOCNode Title="ReadJsonImpl Method " Url="html/M_NodaTime_Serialization_JsonNet_NodaConverterBase_1_ReadJsonImpl.htm" />
+        <HelpTOCNode Title="WriteJson Method " Url="html/M_NodaTime_Serialization_JsonNet_NodaConverterBase_1_WriteJson.htm" />
+        <HelpTOCNode Title="WriteJsonImpl Method " Url="html/M_NodaTime_Serialization_JsonNet_NodaConverterBase_1_WriteJsonImpl.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="NodaConverterBase(T) Properties" Url="html/Properties_T_NodaTime_Serialization_JsonNet_NodaConverterBase_1.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f16ecd0b-c964-46fe-bf40-8527309a1e53" Title="NodaConverters Class" Url="html/T_NodaTime_Serialization_JsonNet_NodaConverters.htm">
+      <HelpTOCNode Title="NodaConverters Members" Url="html/AllMembers_T_NodaTime_Serialization_JsonNet_NodaConverters.htm" />
+      <HelpTOCNode Id="49a37b8d-fbf1-4da4-9eec-b872d0cf48d4" Title="NodaConverters Fields" Url="html/Fields_T_NodaTime_Serialization_JsonNet_NodaConverters.htm">
+        <HelpTOCNode Title="DurationConverter Field" Url="html/F_NodaTime_Serialization_JsonNet_NodaConverters_DurationConverter.htm" />
+        <HelpTOCNode Title="InstantConverter Field" Url="html/F_NodaTime_Serialization_JsonNet_NodaConverters_InstantConverter.htm" />
+        <HelpTOCNode Title="IntervalConverter Field" Url="html/F_NodaTime_Serialization_JsonNet_NodaConverters_IntervalConverter.htm" />
+        <HelpTOCNode Title="IsoIntervalConverter Field" Url="html/F_NodaTime_Serialization_JsonNet_NodaConverters_IsoIntervalConverter.htm" />
+        <HelpTOCNode Title="LocalDateConverter Field" Url="html/F_NodaTime_Serialization_JsonNet_NodaConverters_LocalDateConverter.htm" />
+        <HelpTOCNode Title="LocalDateTimeConverter Field" Url="html/F_NodaTime_Serialization_JsonNet_NodaConverters_LocalDateTimeConverter.htm" />
+        <HelpTOCNode Title="LocalTimeConverter Field" Url="html/F_NodaTime_Serialization_JsonNet_NodaConverters_LocalTimeConverter.htm" />
+        <HelpTOCNode Title="NormalizingIsoPeriodConverter Field" Url="html/F_NodaTime_Serialization_JsonNet_NodaConverters_NormalizingIsoPeriodConverter.htm" />
+        <HelpTOCNode Title="OffsetConverter Field" Url="html/F_NodaTime_Serialization_JsonNet_NodaConverters_OffsetConverter.htm" />
+        <HelpTOCNode Title="OffsetDateTimeConverter Field" Url="html/F_NodaTime_Serialization_JsonNet_NodaConverters_OffsetDateTimeConverter.htm" />
+        <HelpTOCNode Title="RoundtripPeriodConverter Field" Url="html/F_NodaTime_Serialization_JsonNet_NodaConverters_RoundtripPeriodConverter.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f9c61b83-cd42-4e36-9cd1-bf1eced8e039" Title="NodaConverters Methods" Url="html/Methods_T_NodaTime_Serialization_JsonNet_NodaConverters.htm">
+        <HelpTOCNode Title="CreateDateTimeZoneConverter Method " Url="html/M_NodaTime_Serialization_JsonNet_NodaConverters_CreateDateTimeZoneConverter.htm" />
+        <HelpTOCNode Title="CreateZonedDateTimeConverter Method " Url="html/M_NodaTime_Serialization_JsonNet_NodaConverters_CreateZonedDateTimeConverter.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6cb84fe5-fe82-42a4-a7c8-7c0498b2202c" Title="NodaPatternConverter(T) Class" Url="html/T_NodaTime_Serialization_JsonNet_NodaPatternConverter_1.htm">
+      <HelpTOCNode Title="NodaPatternConverter(T) Members" Url="html/AllMembers_T_NodaTime_Serialization_JsonNet_NodaPatternConverter_1.htm" />
+      <HelpTOCNode Id="e7e9283e-3950-4cf1-8397-d40ba41e5b2f" Title="NodaPatternConverter(T) Constructor " Url="html/Overload_NodaTime_Serialization_JsonNet_NodaPatternConverter_1__ctor.htm">
+        <HelpTOCNode Title="NodaPatternConverter(T) Constructor (IPattern(T))" Url="html/M_NodaTime_Serialization_JsonNet_NodaPatternConverter_1__ctor.htm" />
+        <HelpTOCNode Title="NodaPatternConverter(T) Constructor (IPattern(T), Action(T))" Url="html/M_NodaTime_Serialization_JsonNet_NodaPatternConverter_1__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="52493354-1474-4859-a060-d4364eb9ea46" Title="NodaPatternConverter(T) Methods" Url="html/Methods_T_NodaTime_Serialization_JsonNet_NodaPatternConverter_1.htm">
+        <HelpTOCNode Title="ReadJsonImpl Method " Url="html/M_NodaTime_Serialization_JsonNet_NodaPatternConverter_1_ReadJsonImpl.htm" />
+        <HelpTOCNode Title="WriteJsonImpl Method " Url="html/M_NodaTime_Serialization_JsonNet_NodaPatternConverter_1_WriteJsonImpl.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="NodaPatternConverter(T) Properties" Url="html/Properties_T_NodaTime_Serialization_JsonNet_NodaPatternConverter_1.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="57b3b8d8-44c6-40a3-ba8e-eacec79ebfd1" Title="NodaTime.Testing Namespace" Url="html/N_NodaTime_Testing.htm">
+    <HelpTOCNode Id="04b4e709-5dc3-49f9-a271-167aaba83b50" Title="FakeClock Class" Url="html/T_NodaTime_Testing_FakeClock.htm">
+      <HelpTOCNode Title="FakeClock Members" Url="html/AllMembers_T_NodaTime_Testing_FakeClock.htm" />
+      <HelpTOCNode Id="d292fe4f-72e2-42d2-b7bd-b12e31608a9f" Title="FakeClock Constructor " Url="html/Overload_NodaTime_Testing_FakeClock__ctor.htm">
+        <HelpTOCNode Title="FakeClock Constructor (Instant)" Url="html/M_NodaTime_Testing_FakeClock__ctor.htm" />
+        <HelpTOCNode Title="FakeClock Constructor (Instant, Duration)" Url="html/M_NodaTime_Testing_FakeClock__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3707b37d-a617-463f-835a-c67f067b1f4b" Title="FakeClock Methods" Url="html/Methods_T_NodaTime_Testing_FakeClock.htm">
+        <HelpTOCNode Title="Advance Method " Url="html/M_NodaTime_Testing_FakeClock_Advance.htm" />
+        <HelpTOCNode Title="AdvanceDays Method " Url="html/M_NodaTime_Testing_FakeClock_AdvanceDays.htm" />
+        <HelpTOCNode Title="AdvanceHours Method " Url="html/M_NodaTime_Testing_FakeClock_AdvanceHours.htm" />
+        <HelpTOCNode Title="AdvanceMilliseconds Method " Url="html/M_NodaTime_Testing_FakeClock_AdvanceMilliseconds.htm" />
+        <HelpTOCNode Title="AdvanceMinutes Method " Url="html/M_NodaTime_Testing_FakeClock_AdvanceMinutes.htm" />
+        <HelpTOCNode Title="AdvanceSeconds Method " Url="html/M_NodaTime_Testing_FakeClock_AdvanceSeconds.htm" />
+        <HelpTOCNode Title="AdvanceTicks Method " Url="html/M_NodaTime_Testing_FakeClock_AdvanceTicks.htm" />
+        <HelpTOCNode Id="be029411-c0e6-44d3-bd52-65019c2bce6e" Title="FromUtc Method " Url="html/Overload_NodaTime_Testing_FakeClock_FromUtc.htm">
+          <HelpTOCNode Title="FromUtc Method (Int32, Int32, Int32)" Url="html/M_NodaTime_Testing_FakeClock_FromUtc.htm" />
+          <HelpTOCNode Title="FromUtc Method (Int32, Int32, Int32, Int32, Int32, Int32)" Url="html/M_NodaTime_Testing_FakeClock_FromUtc_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Reset Method " Url="html/M_NodaTime_Testing_FakeClock_Reset.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5c2aba01-7428-4018-8c79-485be50b43f4" Title="FakeClock Properties" Url="html/Properties_T_NodaTime_Testing_FakeClock.htm">
+        <HelpTOCNode Title="AutoAdvance Property " Url="html/P_NodaTime_Testing_FakeClock_AutoAdvance.htm" />
+        <HelpTOCNode Title="Now Property " Url="html/P_NodaTime_Testing_FakeClock_Now.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="320e9799-5f7b-4175-b70c-1dc5cc754bbb" Title="NodaTime.Testing.TimeZones Namespace" Url="html/N_NodaTime_Testing_TimeZones.htm">
+    <HelpTOCNode Id="8471e99f-c726-4a1a-8067-4f0253e5b6b1" Title="FakeDateTimeZoneSource Class" Url="html/T_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource.htm">
+      <HelpTOCNode Title="FakeDateTimeZoneSource Members" Url="html/AllMembers_T_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource.htm" />
+      <HelpTOCNode Id="83418dcc-e67a-485e-9120-6626e3561fe2" Title="FakeDateTimeZoneSource Methods" Url="html/Methods_T_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource.htm">
+        <HelpTOCNode Title="ForId Method " Url="html/M_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_ForId.htm" />
+        <HelpTOCNode Title="GetIds Method " Url="html/M_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_GetIds.htm" />
+        <HelpTOCNode Title="MapTimeZoneId Method " Url="html/M_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_MapTimeZoneId.htm" />
+        <HelpTOCNode Title="ToProvider Method " Url="html/M_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_ToProvider.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="699a5b15-6482-47ab-a1e5-127cc7e39075" Title="FakeDateTimeZoneSource Properties" Url="html/Properties_T_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource.htm">
+        <HelpTOCNode Title="VersionId Property " Url="html/P_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_VersionId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="12b656d3-cd74-4199-87d1-09682c1a5226" Title="FakeDateTimeZoneSource.Builder Class" Url="html/T_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_Builder.htm">
+      <HelpTOCNode Title="FakeDateTimeZoneSource.Builder Members" Url="html/AllMembers_T_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_Builder.htm" />
+      <HelpTOCNode Title="FakeDateTimeZoneSource.Builder Constructor " Url="html/M_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_Builder__ctor.htm" />
+      <HelpTOCNode Id="97945e36-bc8e-4deb-900d-1e58aea888fd" Title="FakeDateTimeZoneSource.Builder Methods" Url="html/Methods_T_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_Builder.htm">
+        <HelpTOCNode Title="Add Method " Url="html/M_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_Builder_Add.htm" />
+        <HelpTOCNode Title="Build Method " Url="html/M_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_Builder_Build.htm" />
+        <HelpTOCNode Title="GetEnumerator Method " Url="html/M_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_Builder_GetEnumerator.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="428b90bb-6964-4c81-ba70-c9fcab3d4348" Title="FakeDateTimeZoneSource.Builder Properties" Url="html/Properties_T_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_Builder.htm">
+        <HelpTOCNode Title="BclIdsToZoneIds Property " Url="html/P_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_Builder_BclIdsToZoneIds.htm" />
+        <HelpTOCNode Title="VersionId Property " Url="html/P_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_Builder_VersionId.htm" />
+        <HelpTOCNode Title="Zones Property " Url="html/P_NodaTime_Testing_TimeZones_FakeDateTimeZoneSource_Builder_Zones.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="17a196b0-648f-4e7d-b983-d643bf9a3fe4" Title="MultiTransitionDateTimeZone Class" Url="html/T_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone.htm">
+      <HelpTOCNode Title="MultiTransitionDateTimeZone Members" Url="html/AllMembers_T_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone.htm" />
+      <HelpTOCNode Id="7af2d66c-9dbc-4a1a-b1a5-4c42b6b69940" Title="MultiTransitionDateTimeZone Methods" Url="html/Methods_T_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone.htm">
+        <HelpTOCNode Title="EqualsImpl Method " Url="html/M_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_EqualsImpl.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_GetHashCode.htm" />
+        <HelpTOCNode Title="GetZoneInterval Method " Url="html/M_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_GetZoneInterval.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="70dd21cf-512a-4c8d-857f-caecfe760ac9" Title="MultiTransitionDateTimeZone Properties" Url="html/Properties_T_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone.htm">
+        <HelpTOCNode Title="Intervals Property " Url="html/P_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Intervals.htm" />
+        <HelpTOCNode Title="Transitions Property " Url="html/P_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Transitions.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4abe4ee8-172b-48fe-8dce-e389e3283a7d" Title="MultiTransitionDateTimeZone.Builder Class" Url="html/T_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder.htm">
+      <HelpTOCNode Title="MultiTransitionDateTimeZone.Builder Members" Url="html/AllMembers_T_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder.htm" />
+      <HelpTOCNode Id="3c778a62-262d-4cb6-82d5-7925fdaaf842" Title="MultiTransitionDateTimeZone.Builder Constructor " Url="html/Overload_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder__ctor.htm">
+        <HelpTOCNode Title="MultiTransitionDateTimeZone.Builder Constructor " Url="html/M_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder__ctor.htm" />
+        <HelpTOCNode Title="MultiTransitionDateTimeZone.Builder Constructor (Int32, Int32)" Url="html/M_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder__ctor_1.htm" />
+        <HelpTOCNode Title="MultiTransitionDateTimeZone.Builder Constructor (Int32, String)" Url="html/M_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder__ctor_3.htm" />
+        <HelpTOCNode Title="MultiTransitionDateTimeZone.Builder Constructor (Int32, Int32, String)" Url="html/M_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder__ctor_2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="50101612-418d-4b13-945d-95f27516bf48" Title="MultiTransitionDateTimeZone.Builder Methods" Url="html/Methods_T_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder.htm">
+        <HelpTOCNode Id="525a436b-ec8c-41f3-8712-bc9a3800ec02" Title="Add Method " Url="html/Overload_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder_Add.htm">
+          <HelpTOCNode Title="Add Method (Instant, Int32)" Url="html/M_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder_Add.htm" />
+          <HelpTOCNode Title="Add Method (Instant, Int32, Int32)" Url="html/M_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder_Add_1.htm" />
+          <HelpTOCNode Title="Add Method (Instant, Int32, Int32, String)" Url="html/M_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder_Add_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Build Method " Url="html/M_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder_Build.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="520695cd-0b4c-4343-8a59-943de04dc9de" Title="MultiTransitionDateTimeZone.Builder Properties" Url="html/Properties_T_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_NodaTime_Testing_TimeZones_MultiTransitionDateTimeZone_Builder_Id.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="08c92fb6-898d-4235-acd9-641d62c57fb0" Title="SingleTransitionDateTimeZone Class" Url="html/T_NodaTime_Testing_TimeZones_SingleTransitionDateTimeZone.htm">
+      <HelpTOCNode Title="SingleTransitionDateTimeZone Members" Url="html/AllMembers_T_NodaTime_Testing_TimeZones_SingleTransitionDateTimeZone.htm" />
+      <HelpTOCNode Id="a2589f1c-d8ef-44db-991b-f0073a5c567b" Title="SingleTransitionDateTimeZone Constructor " Url="html/Overload_NodaTime_Testing_TimeZones_SingleTransitionDateTimeZone__ctor.htm">
+        <HelpTOCNode Title="SingleTransitionDateTimeZone Constructor (Instant, Offset, Offset)" Url="html/M_NodaTime_Testing_TimeZones_SingleTransitionDateTimeZone__ctor.htm" />
+        <HelpTOCNode Title="SingleTransitionDateTimeZone Constructor (Instant, Int32, Int32)" Url="html/M_NodaTime_Testing_TimeZones_SingleTransitionDateTimeZone__ctor_2.htm" />
+        <HelpTOCNode Title="SingleTransitionDateTimeZone Constructor (Instant, Offset, Offset, String)" Url="html/M_NodaTime_Testing_TimeZones_SingleTransitionDateTimeZone__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f59cf489-3e09-41ea-927d-fb38b945fd46" Title="SingleTransitionDateTimeZone Methods" Url="html/Methods_T_NodaTime_Testing_TimeZones_SingleTransitionDateTimeZone.htm">
+        <HelpTOCNode Title="EqualsImpl Method " Url="html/M_NodaTime_Testing_TimeZones_SingleTransitionDateTimeZone_EqualsImpl.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_Testing_TimeZones_SingleTransitionDateTimeZone_GetHashCode.htm" />
+        <HelpTOCNode Title="GetZoneInterval Method " Url="html/M_NodaTime_Testing_TimeZones_SingleTransitionDateTimeZone_GetZoneInterval.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="571411bf-7b95-4f67-9659-0bfd19e24178" Title="SingleTransitionDateTimeZone Properties" Url="html/Properties_T_NodaTime_Testing_TimeZones_SingleTransitionDateTimeZone.htm">
+        <HelpTOCNode Title="EarlyInterval Property " Url="html/P_NodaTime_Testing_TimeZones_SingleTransitionDateTimeZone_EarlyInterval.htm" />
+        <HelpTOCNode Title="LateInterval Property " Url="html/P_NodaTime_Testing_TimeZones_SingleTransitionDateTimeZone_LateInterval.htm" />
+        <HelpTOCNode Title="Transition Property " Url="html/P_NodaTime_Testing_TimeZones_SingleTransitionDateTimeZone_Transition.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a044996d-517d-4ec0-b82b-a6300115141e" Title="NodaTime.Text Namespace" Url="html/N_NodaTime_Text.htm">
+    <HelpTOCNode Id="dfb55fad-724d-44e2-8228-5adcd2e379e1" Title="DurationPattern Class" Url="html/T_NodaTime_Text_DurationPattern.htm">
+      <HelpTOCNode Title="DurationPattern Members" Url="html/AllMembers_T_NodaTime_Text_DurationPattern.htm" />
+      <HelpTOCNode Id="dd53d5e8-b442-430e-8aec-20feeb2f3913" Title="DurationPattern Methods" Url="html/Methods_T_NodaTime_Text_DurationPattern.htm">
+        <HelpTOCNode Title="Create Method " Url="html/M_NodaTime_Text_DurationPattern_Create.htm" />
+        <HelpTOCNode Title="CreateWithCurrentCulture Method " Url="html/M_NodaTime_Text_DurationPattern_CreateWithCurrentCulture.htm" />
+        <HelpTOCNode Title="CreateWithInvariantCulture Method " Url="html/M_NodaTime_Text_DurationPattern_CreateWithInvariantCulture.htm" />
+        <HelpTOCNode Title="Format Method " Url="html/M_NodaTime_Text_DurationPattern_Format.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/M_NodaTime_Text_DurationPattern_Parse.htm" />
+        <HelpTOCNode Title="WithCulture Method " Url="html/M_NodaTime_Text_DurationPattern_WithCulture.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6f3dc4dc-20d3-4434-bb34-4dc8e658b30d" Title="DurationPattern Properties" Url="html/Properties_T_NodaTime_Text_DurationPattern.htm">
+        <HelpTOCNode Title="PatternText Property " Url="html/P_NodaTime_Text_DurationPattern_PatternText.htm" />
+        <HelpTOCNode Title="RoundtripPattern Property " Url="html/P_NodaTime_Text_DurationPattern_RoundtripPattern.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f9083db5-b7a3-4cca-aacf-850e1f4f2630" Title="InstantPattern Class" Url="html/T_NodaTime_Text_InstantPattern.htm">
+      <HelpTOCNode Title="InstantPattern Members" Url="html/AllMembers_T_NodaTime_Text_InstantPattern.htm" />
+      <HelpTOCNode Id="eb1f5f92-7994-48ae-91e9-aa5b8f2d6a76" Title="InstantPattern Methods" Url="html/Methods_T_NodaTime_Text_InstantPattern.htm">
+        <HelpTOCNode Title="Create Method " Url="html/M_NodaTime_Text_InstantPattern_Create.htm" />
+        <HelpTOCNode Title="CreateNumericPattern Method " Url="html/M_NodaTime_Text_InstantPattern_CreateNumericPattern.htm" />
+        <HelpTOCNode Title="CreateWithCurrentCulture Method " Url="html/M_NodaTime_Text_InstantPattern_CreateWithCurrentCulture.htm" />
+        <HelpTOCNode Title="CreateWithInvariantCulture Method " Url="html/M_NodaTime_Text_InstantPattern_CreateWithInvariantCulture.htm" />
+        <HelpTOCNode Title="Format Method " Url="html/M_NodaTime_Text_InstantPattern_Format.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/M_NodaTime_Text_InstantPattern_Parse.htm" />
+        <HelpTOCNode Title="WithCulture Method " Url="html/M_NodaTime_Text_InstantPattern_WithCulture.htm" />
+        <HelpTOCNode Title="WithMinMaxLabels Method " Url="html/M_NodaTime_Text_InstantPattern_WithMinMaxLabels.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f4490dcd-d66e-46ba-b967-4f0282ad8162" Title="InstantPattern Properties" Url="html/Properties_T_NodaTime_Text_InstantPattern.htm">
+        <HelpTOCNode Title="ExtendedIsoPattern Property " Url="html/P_NodaTime_Text_InstantPattern_ExtendedIsoPattern.htm" />
+        <HelpTOCNode Title="GeneralPattern Property " Url="html/P_NodaTime_Text_InstantPattern_GeneralPattern.htm" />
+        <HelpTOCNode Title="PatternText Property " Url="html/P_NodaTime_Text_InstantPattern_PatternText.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="40a9b14e-bda0-4c1f-bbd1-219b171735b6" Title="InvalidPatternException Class" Url="html/T_NodaTime_Text_InvalidPatternException.htm">
+      <HelpTOCNode Title="InvalidPatternException Members" Url="html/AllMembers_T_NodaTime_Text_InvalidPatternException.htm" />
+      <HelpTOCNode Id="962cb393-3028-4a41-987f-3bd61201bacc" Title="InvalidPatternException Constructor " Url="html/Overload_NodaTime_Text_InvalidPatternException__ctor.htm">
+        <HelpTOCNode Title="InvalidPatternException Constructor " Url="html/M_NodaTime_Text_InvalidPatternException__ctor.htm" />
+        <HelpTOCNode Title="InvalidPatternException Constructor (String)" Url="html/M_NodaTime_Text_InvalidPatternException__ctor_1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="774f6436-d822-4e19-8d3d-3dcd0a8f753d" Title="IPattern(T) Interface" Url="html/T_NodaTime_Text_IPattern_1.htm">
+      <HelpTOCNode Title="IPattern(T) Members" Url="html/AllMembers_T_NodaTime_Text_IPattern_1.htm" />
+      <HelpTOCNode Id="843e1050-75bd-42e2-9c6e-453d26aaa692" Title="IPattern(T) Methods" Url="html/Methods_T_NodaTime_Text_IPattern_1.htm">
+        <HelpTOCNode Title="Format Method " Url="html/M_NodaTime_Text_IPattern_1_Format.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/M_NodaTime_Text_IPattern_1_Parse.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a9fb9f61-d03a-4324-8f96-8b4c3601fbcc" Title="LocalDatePattern Class" Url="html/T_NodaTime_Text_LocalDatePattern.htm">
+      <HelpTOCNode Title="LocalDatePattern Members" Url="html/AllMembers_T_NodaTime_Text_LocalDatePattern.htm" />
+      <HelpTOCNode Id="44f258d0-30ff-4047-933c-92c3a9b73caf" Title="LocalDatePattern Methods" Url="html/Methods_T_NodaTime_Text_LocalDatePattern.htm">
+        <HelpTOCNode Id="9f94c635-10bc-406c-b87a-9d0c3dfd9428" Title="Create Method " Url="html/Overload_NodaTime_Text_LocalDatePattern_Create.htm">
+          <HelpTOCNode Title="Create Method (String, CultureInfo)" Url="html/M_NodaTime_Text_LocalDatePattern_Create.htm" />
+          <HelpTOCNode Title="Create Method (String, CultureInfo, LocalDate)" Url="html/M_NodaTime_Text_LocalDatePattern_Create_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CreateWithCurrentCulture Method " Url="html/M_NodaTime_Text_LocalDatePattern_CreateWithCurrentCulture.htm" />
+        <HelpTOCNode Title="CreateWithInvariantCulture Method " Url="html/M_NodaTime_Text_LocalDatePattern_CreateWithInvariantCulture.htm" />
+        <HelpTOCNode Title="Format Method " Url="html/M_NodaTime_Text_LocalDatePattern_Format.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/M_NodaTime_Text_LocalDatePattern_Parse.htm" />
+        <HelpTOCNode Title="WithCulture Method " Url="html/M_NodaTime_Text_LocalDatePattern_WithCulture.htm" />
+        <HelpTOCNode Title="WithTemplateValue Method " Url="html/M_NodaTime_Text_LocalDatePattern_WithTemplateValue.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b17a7eab-5b6b-4411-a9fe-c09b59970c4c" Title="LocalDatePattern Properties" Url="html/Properties_T_NodaTime_Text_LocalDatePattern.htm">
+        <HelpTOCNode Title="IsoPattern Property " Url="html/P_NodaTime_Text_LocalDatePattern_IsoPattern.htm" />
+        <HelpTOCNode Title="PatternText Property " Url="html/P_NodaTime_Text_LocalDatePattern_PatternText.htm" />
+        <HelpTOCNode Title="TemplateValue Property " Url="html/P_NodaTime_Text_LocalDatePattern_TemplateValue.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a54abc36-4c9d-4e8f-8431-2739b1cc0a49" Title="LocalDateTimePattern Class" Url="html/T_NodaTime_Text_LocalDateTimePattern.htm">
+      <HelpTOCNode Title="LocalDateTimePattern Members" Url="html/AllMembers_T_NodaTime_Text_LocalDateTimePattern.htm" />
+      <HelpTOCNode Id="de4c0a1a-c80a-44ea-9cfb-13030324f541" Title="LocalDateTimePattern Methods" Url="html/Methods_T_NodaTime_Text_LocalDateTimePattern.htm">
+        <HelpTOCNode Id="3a97f9fc-11f8-487f-8785-44f1e968cbb2" Title="Create Method " Url="html/Overload_NodaTime_Text_LocalDateTimePattern_Create.htm">
+          <HelpTOCNode Title="Create Method (String, CultureInfo)" Url="html/M_NodaTime_Text_LocalDateTimePattern_Create.htm" />
+          <HelpTOCNode Title="Create Method (String, CultureInfo, LocalDateTime)" Url="html/M_NodaTime_Text_LocalDateTimePattern_Create_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CreateWithCurrentCulture Method " Url="html/M_NodaTime_Text_LocalDateTimePattern_CreateWithCurrentCulture.htm" />
+        <HelpTOCNode Title="CreateWithInvariantCulture Method " Url="html/M_NodaTime_Text_LocalDateTimePattern_CreateWithInvariantCulture.htm" />
+        <HelpTOCNode Title="Format Method " Url="html/M_NodaTime_Text_LocalDateTimePattern_Format.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/M_NodaTime_Text_LocalDateTimePattern_Parse.htm" />
+        <HelpTOCNode Title="WithCulture Method " Url="html/M_NodaTime_Text_LocalDateTimePattern_WithCulture.htm" />
+        <HelpTOCNode Title="WithTemplateValue Method " Url="html/M_NodaTime_Text_LocalDateTimePattern_WithTemplateValue.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9b6bf301-56ce-4b5c-bd24-7d3d1b219fcd" Title="LocalDateTimePattern Properties" Url="html/Properties_T_NodaTime_Text_LocalDateTimePattern.htm">
+        <HelpTOCNode Title="BclRoundtripPattern Property " Url="html/P_NodaTime_Text_LocalDateTimePattern_BclRoundtripPattern.htm" />
+        <HelpTOCNode Title="ExtendedIsoPattern Property " Url="html/P_NodaTime_Text_LocalDateTimePattern_ExtendedIsoPattern.htm" />
+        <HelpTOCNode Title="FullRoundtripPattern Property " Url="html/P_NodaTime_Text_LocalDateTimePattern_FullRoundtripPattern.htm" />
+        <HelpTOCNode Title="GeneralIsoPattern Property " Url="html/P_NodaTime_Text_LocalDateTimePattern_GeneralIsoPattern.htm" />
+        <HelpTOCNode Title="PatternText Property " Url="html/P_NodaTime_Text_LocalDateTimePattern_PatternText.htm" />
+        <HelpTOCNode Title="TemplateValue Property " Url="html/P_NodaTime_Text_LocalDateTimePattern_TemplateValue.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="be72413c-5751-4ef7-a7bc-0bcb92136e45" Title="LocalTimePattern Class" Url="html/T_NodaTime_Text_LocalTimePattern.htm">
+      <HelpTOCNode Title="LocalTimePattern Members" Url="html/AllMembers_T_NodaTime_Text_LocalTimePattern.htm" />
+      <HelpTOCNode Id="1e838c66-b04b-4bab-91cf-ee16690917e7" Title="LocalTimePattern Methods" Url="html/Methods_T_NodaTime_Text_LocalTimePattern.htm">
+        <HelpTOCNode Id="1f24dbf4-72bd-463f-864b-91387f5e2b96" Title="Create Method " Url="html/Overload_NodaTime_Text_LocalTimePattern_Create.htm">
+          <HelpTOCNode Title="Create Method (String, CultureInfo)" Url="html/M_NodaTime_Text_LocalTimePattern_Create.htm" />
+          <HelpTOCNode Title="Create Method (String, CultureInfo, LocalTime)" Url="html/M_NodaTime_Text_LocalTimePattern_Create_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CreateWithCurrentCulture Method " Url="html/M_NodaTime_Text_LocalTimePattern_CreateWithCurrentCulture.htm" />
+        <HelpTOCNode Title="CreateWithInvariantCulture Method " Url="html/M_NodaTime_Text_LocalTimePattern_CreateWithInvariantCulture.htm" />
+        <HelpTOCNode Title="Format Method " Url="html/M_NodaTime_Text_LocalTimePattern_Format.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/M_NodaTime_Text_LocalTimePattern_Parse.htm" />
+        <HelpTOCNode Title="WithCulture Method " Url="html/M_NodaTime_Text_LocalTimePattern_WithCulture.htm" />
+        <HelpTOCNode Title="WithTemplateValue Method " Url="html/M_NodaTime_Text_LocalTimePattern_WithTemplateValue.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="68b9d21c-a015-4c31-9f56-ce1fc0b6a8da" Title="LocalTimePattern Properties" Url="html/Properties_T_NodaTime_Text_LocalTimePattern.htm">
+        <HelpTOCNode Title="ExtendedIsoPattern Property " Url="html/P_NodaTime_Text_LocalTimePattern_ExtendedIsoPattern.htm" />
+        <HelpTOCNode Title="PatternText Property " Url="html/P_NodaTime_Text_LocalTimePattern_PatternText.htm" />
+        <HelpTOCNode Title="TemplateValue Property " Url="html/P_NodaTime_Text_LocalTimePattern_TemplateValue.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b0057e01-f980-4c88-a8cd-2c4a0d7cc7b5" Title="OffsetDateTimePattern Class" Url="html/T_NodaTime_Text_OffsetDateTimePattern.htm">
+      <HelpTOCNode Title="OffsetDateTimePattern Members" Url="html/AllMembers_T_NodaTime_Text_OffsetDateTimePattern.htm" />
+      <HelpTOCNode Id="4f30430d-d3a4-454b-bbea-fe6bb4ffa7a5" Title="OffsetDateTimePattern Methods" Url="html/Methods_T_NodaTime_Text_OffsetDateTimePattern.htm">
+        <HelpTOCNode Title="Create Method " Url="html/M_NodaTime_Text_OffsetDateTimePattern_Create.htm" />
+        <HelpTOCNode Title="CreateWithCurrentCulture Method " Url="html/M_NodaTime_Text_OffsetDateTimePattern_CreateWithCurrentCulture.htm" />
+        <HelpTOCNode Title="CreateWithInvariantCulture Method " Url="html/M_NodaTime_Text_OffsetDateTimePattern_CreateWithInvariantCulture.htm" />
+        <HelpTOCNode Title="Format Method " Url="html/M_NodaTime_Text_OffsetDateTimePattern_Format.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/M_NodaTime_Text_OffsetDateTimePattern_Parse.htm" />
+        <HelpTOCNode Title="WithCulture Method " Url="html/M_NodaTime_Text_OffsetDateTimePattern_WithCulture.htm" />
+        <HelpTOCNode Title="WithPatternText Method " Url="html/M_NodaTime_Text_OffsetDateTimePattern_WithPatternText.htm" />
+        <HelpTOCNode Title="WithTemplateValue Method " Url="html/M_NodaTime_Text_OffsetDateTimePattern_WithTemplateValue.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3ffa7fbf-151e-4d50-a7c0-fcfecca6f1c2" Title="OffsetDateTimePattern Properties" Url="html/Properties_T_NodaTime_Text_OffsetDateTimePattern.htm">
+        <HelpTOCNode Title="ExtendedIsoPattern Property " Url="html/P_NodaTime_Text_OffsetDateTimePattern_ExtendedIsoPattern.htm" />
+        <HelpTOCNode Title="FullRoundtripPattern Property " Url="html/P_NodaTime_Text_OffsetDateTimePattern_FullRoundtripPattern.htm" />
+        <HelpTOCNode Title="GeneralIsoPattern Property " Url="html/P_NodaTime_Text_OffsetDateTimePattern_GeneralIsoPattern.htm" />
+        <HelpTOCNode Title="PatternText Property " Url="html/P_NodaTime_Text_OffsetDateTimePattern_PatternText.htm" />
+        <HelpTOCNode Title="Rfc3339Pattern Property " Url="html/P_NodaTime_Text_OffsetDateTimePattern_Rfc3339Pattern.htm" />
+        <HelpTOCNode Title="TemplateValue Property " Url="html/P_NodaTime_Text_OffsetDateTimePattern_TemplateValue.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ba1d8919-dc2e-409f-bd8e-1a02e815d8df" Title="OffsetPattern Class" Url="html/T_NodaTime_Text_OffsetPattern.htm">
+      <HelpTOCNode Title="OffsetPattern Members" Url="html/AllMembers_T_NodaTime_Text_OffsetPattern.htm" />
+      <HelpTOCNode Id="aba0296b-31ef-48b0-b40d-619f51fc5f8f" Title="OffsetPattern Fields" Url="html/Fields_T_NodaTime_Text_OffsetPattern.htm">
+        <HelpTOCNode Title="GeneralInvariantPattern Field" Url="html/F_NodaTime_Text_OffsetPattern_GeneralInvariantPattern.htm" />
+        <HelpTOCNode Title="GeneralInvariantPatternWithZ Field" Url="html/F_NodaTime_Text_OffsetPattern_GeneralInvariantPatternWithZ.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1670a804-9ecb-49bf-90dd-d3a882a70b71" Title="OffsetPattern Methods" Url="html/Methods_T_NodaTime_Text_OffsetPattern.htm">
+        <HelpTOCNode Title="Create Method " Url="html/M_NodaTime_Text_OffsetPattern_Create.htm" />
+        <HelpTOCNode Title="CreateWithCurrentCulture Method " Url="html/M_NodaTime_Text_OffsetPattern_CreateWithCurrentCulture.htm" />
+        <HelpTOCNode Title="CreateWithInvariantCulture Method " Url="html/M_NodaTime_Text_OffsetPattern_CreateWithInvariantCulture.htm" />
+        <HelpTOCNode Title="Format Method " Url="html/M_NodaTime_Text_OffsetPattern_Format.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/M_NodaTime_Text_OffsetPattern_Parse.htm" />
+        <HelpTOCNode Title="WithCulture Method " Url="html/M_NodaTime_Text_OffsetPattern_WithCulture.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2a977b40-7a7d-4082-9856-104aebbda226" Title="OffsetPattern Properties" Url="html/Properties_T_NodaTime_Text_OffsetPattern.htm">
+        <HelpTOCNode Title="PatternText Property " Url="html/P_NodaTime_Text_OffsetPattern_PatternText.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2f2a0027-3f92-4810-b16a-1e727bc9606a" Title="ParseResult(T) Class" Url="html/T_NodaTime_Text_ParseResult_1.htm">
+      <HelpTOCNode Title="ParseResult(T) Members" Url="html/AllMembers_T_NodaTime_Text_ParseResult_1.htm" />
+      <HelpTOCNode Id="d7f1ef02-951f-4726-9260-13b11b853071" Title="ParseResult(T) Methods" Url="html/Methods_T_NodaTime_Text_ParseResult_1.htm">
+        <HelpTOCNode Title="GetValueOrThrow Method " Url="html/M_NodaTime_Text_ParseResult_1_GetValueOrThrow.htm" />
+        <HelpTOCNode Title="TryGetValue Method " Url="html/M_NodaTime_Text_ParseResult_1_TryGetValue.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9911f3be-edb7-4152-9aca-47d925810ba2" Title="ParseResult(T) Properties" Url="html/Properties_T_NodaTime_Text_ParseResult_1.htm">
+        <HelpTOCNode Title="Exception Property " Url="html/P_NodaTime_Text_ParseResult_1_Exception.htm" />
+        <HelpTOCNode Title="Success Property " Url="html/P_NodaTime_Text_ParseResult_1_Success.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/P_NodaTime_Text_ParseResult_1_Value.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b6b4c116-2840-48dd-9437-d71f700bcf9a" Title="PeriodPattern Class" Url="html/T_NodaTime_Text_PeriodPattern.htm">
+      <HelpTOCNode Title="PeriodPattern Members" Url="html/AllMembers_T_NodaTime_Text_PeriodPattern.htm" />
+      <HelpTOCNode Id="8bcee704-ad76-4977-b836-8bfa1a4bbf3b" Title="PeriodPattern Fields" Url="html/Fields_T_NodaTime_Text_PeriodPattern.htm">
+        <HelpTOCNode Title="NormalizingIsoPattern Field" Url="html/F_NodaTime_Text_PeriodPattern_NormalizingIsoPattern.htm" />
+        <HelpTOCNode Title="RoundtripPattern Field" Url="html/F_NodaTime_Text_PeriodPattern_RoundtripPattern.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bb660a62-9887-4747-9fd3-fc5f1611b480" Title="PeriodPattern Methods" Url="html/Methods_T_NodaTime_Text_PeriodPattern.htm">
+        <HelpTOCNode Title="Format Method " Url="html/M_NodaTime_Text_PeriodPattern_Format.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/M_NodaTime_Text_PeriodPattern_Parse.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cf519918-6b03-42f2-a982-83c21ac461bb" Title="UnparsableValueException Class" Url="html/T_NodaTime_Text_UnparsableValueException.htm">
+      <HelpTOCNode Title="UnparsableValueException Members" Url="html/AllMembers_T_NodaTime_Text_UnparsableValueException.htm" />
+      <HelpTOCNode Id="e8735751-e830-49f8-a202-0c5d2af06b4e" Title="UnparsableValueException Constructor " Url="html/Overload_NodaTime_Text_UnparsableValueException__ctor.htm">
+        <HelpTOCNode Title="UnparsableValueException Constructor " Url="html/M_NodaTime_Text_UnparsableValueException__ctor.htm" />
+        <HelpTOCNode Title="UnparsableValueException Constructor (String)" Url="html/M_NodaTime_Text_UnparsableValueException__ctor_1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0995e343-37b1-47ce-8ad2-81948ddb835b" Title="ZonedDateTimePattern Class" Url="html/T_NodaTime_Text_ZonedDateTimePattern.htm">
+      <HelpTOCNode Title="ZonedDateTimePattern Members" Url="html/AllMembers_T_NodaTime_Text_ZonedDateTimePattern.htm" />
+      <HelpTOCNode Id="4cfa98eb-6cea-42f4-9de0-20431f5f2746" Title="ZonedDateTimePattern Methods" Url="html/Methods_T_NodaTime_Text_ZonedDateTimePattern.htm">
+        <HelpTOCNode Title="Create Method " Url="html/M_NodaTime_Text_ZonedDateTimePattern_Create.htm" />
+        <HelpTOCNode Title="CreateWithCurrentCulture Method " Url="html/M_NodaTime_Text_ZonedDateTimePattern_CreateWithCurrentCulture.htm" />
+        <HelpTOCNode Title="CreateWithInvariantCulture Method " Url="html/M_NodaTime_Text_ZonedDateTimePattern_CreateWithInvariantCulture.htm" />
+        <HelpTOCNode Title="Format Method " Url="html/M_NodaTime_Text_ZonedDateTimePattern_Format.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/M_NodaTime_Text_ZonedDateTimePattern_Parse.htm" />
+        <HelpTOCNode Title="WithCulture Method " Url="html/M_NodaTime_Text_ZonedDateTimePattern_WithCulture.htm" />
+        <HelpTOCNode Title="WithPatternText Method " Url="html/M_NodaTime_Text_ZonedDateTimePattern_WithPatternText.htm" />
+        <HelpTOCNode Title="WithResolver Method " Url="html/M_NodaTime_Text_ZonedDateTimePattern_WithResolver.htm" />
+        <HelpTOCNode Title="WithTemplateValue Method " Url="html/M_NodaTime_Text_ZonedDateTimePattern_WithTemplateValue.htm" />
+        <HelpTOCNode Title="WithZoneProvider Method " Url="html/M_NodaTime_Text_ZonedDateTimePattern_WithZoneProvider.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6cca8b3c-a18a-40d3-81e5-2ecdb6d09259" Title="ZonedDateTimePattern Properties" Url="html/Properties_T_NodaTime_Text_ZonedDateTimePattern.htm">
+        <HelpTOCNode Title="ExtendedFormatOnlyIsoPattern Property " Url="html/P_NodaTime_Text_ZonedDateTimePattern_ExtendedFormatOnlyIsoPattern.htm" />
+        <HelpTOCNode Title="GeneralFormatOnlyIsoPattern Property " Url="html/P_NodaTime_Text_ZonedDateTimePattern_GeneralFormatOnlyIsoPattern.htm" />
+        <HelpTOCNode Title="PatternText Property " Url="html/P_NodaTime_Text_ZonedDateTimePattern_PatternText.htm" />
+        <HelpTOCNode Title="Resolver Property " Url="html/P_NodaTime_Text_ZonedDateTimePattern_Resolver.htm" />
+        <HelpTOCNode Title="TemplateValue Property " Url="html/P_NodaTime_Text_ZonedDateTimePattern_TemplateValue.htm" />
+        <HelpTOCNode Title="ZoneProvider Property " Url="html/P_NodaTime_Text_ZonedDateTimePattern_ZoneProvider.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="abdc07ee-3073-4a10-8f9b-947154b20cc3" Title="NodaTime.TimeZones Namespace" Url="html/N_NodaTime_TimeZones.htm">
+    <HelpTOCNode Title="AmbiguousTimeResolver Delegate" Url="html/T_NodaTime_TimeZones_AmbiguousTimeResolver.htm" />
+    <HelpTOCNode Id="93e4ccf3-c383-40b0-ac41-458f9531b124" Title="BclDateTimeZone Class" Url="html/T_NodaTime_TimeZones_BclDateTimeZone.htm">
+      <HelpTOCNode Title="BclDateTimeZone Members" Url="html/AllMembers_T_NodaTime_TimeZones_BclDateTimeZone.htm" />
+      <HelpTOCNode Id="597b980a-3f6a-4bf4-9865-d1dfac0daa63" Title="BclDateTimeZone Methods" Url="html/Methods_T_NodaTime_TimeZones_BclDateTimeZone.htm">
+        <HelpTOCNode Title="EqualsImpl Method " Url="html/M_NodaTime_TimeZones_BclDateTimeZone_EqualsImpl.htm" />
+        <HelpTOCNode Title="ForSystemDefault Method " Url="html/M_NodaTime_TimeZones_BclDateTimeZone_ForSystemDefault.htm" />
+        <HelpTOCNode Title="FromTimeZoneInfo Method " Url="html/M_NodaTime_TimeZones_BclDateTimeZone_FromTimeZoneInfo.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_TimeZones_BclDateTimeZone_GetHashCode.htm" />
+        <HelpTOCNode Title="GetZoneInterval Method " Url="html/M_NodaTime_TimeZones_BclDateTimeZone_GetZoneInterval.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ccf6777a-1abf-47a3-bfd6-42410afa28e2" Title="BclDateTimeZone Properties" Url="html/Properties_T_NodaTime_TimeZones_BclDateTimeZone.htm">
+        <HelpTOCNode Title="DisplayName Property " Url="html/P_NodaTime_TimeZones_BclDateTimeZone_DisplayName.htm" />
+        <HelpTOCNode Title="OriginalZone Property " Url="html/P_NodaTime_TimeZones_BclDateTimeZone_OriginalZone.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8edd94cb-0933-4f9a-9a25-c9c88055135e" Title="BclDateTimeZoneSource Class" Url="html/T_NodaTime_TimeZones_BclDateTimeZoneSource.htm">
+      <HelpTOCNode Title="BclDateTimeZoneSource Members" Url="html/AllMembers_T_NodaTime_TimeZones_BclDateTimeZoneSource.htm" />
+      <HelpTOCNode Title="BclDateTimeZoneSource Constructor " Url="html/M_NodaTime_TimeZones_BclDateTimeZoneSource__ctor.htm" />
+      <HelpTOCNode Id="7a24444c-9352-4f58-8574-b7d6da98fdee" Title="BclDateTimeZoneSource Methods" Url="html/Methods_T_NodaTime_TimeZones_BclDateTimeZoneSource.htm">
+        <HelpTOCNode Title="ForId Method " Url="html/M_NodaTime_TimeZones_BclDateTimeZoneSource_ForId.htm" />
+        <HelpTOCNode Title="GetIds Method " Url="html/M_NodaTime_TimeZones_BclDateTimeZoneSource_GetIds.htm" />
+        <HelpTOCNode Title="MapTimeZoneId Method " Url="html/M_NodaTime_TimeZones_BclDateTimeZoneSource_MapTimeZoneId.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0372237b-1b1a-484d-96db-1125cd1fe36a" Title="BclDateTimeZoneSource Properties" Url="html/Properties_T_NodaTime_TimeZones_BclDateTimeZoneSource.htm">
+        <HelpTOCNode Title="VersionId Property " Url="html/P_NodaTime_TimeZones_BclDateTimeZoneSource_VersionId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0aa78846-0bdf-4894-bfe5-b76690d83a7e" Title="DateTimeZoneCache Class" Url="html/T_NodaTime_TimeZones_DateTimeZoneCache.htm">
+      <HelpTOCNode Title="DateTimeZoneCache Members" Url="html/AllMembers_T_NodaTime_TimeZones_DateTimeZoneCache.htm" />
+      <HelpTOCNode Title="DateTimeZoneCache Constructor " Url="html/M_NodaTime_TimeZones_DateTimeZoneCache__ctor.htm" />
+      <HelpTOCNode Id="fc237947-d178-4ed3-a4f4-66df8c596f6c" Title="DateTimeZoneCache Methods" Url="html/Methods_T_NodaTime_TimeZones_DateTimeZoneCache.htm">
+        <HelpTOCNode Title="GetSystemDefault Method " Url="html/M_NodaTime_TimeZones_DateTimeZoneCache_GetSystemDefault.htm" />
+        <HelpTOCNode Title="GetZoneOrNull Method " Url="html/M_NodaTime_TimeZones_DateTimeZoneCache_GetZoneOrNull.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="77a92312-7fda-4aed-b099-20a5c8ab75d5" Title="DateTimeZoneCache Properties" Url="html/Properties_T_NodaTime_TimeZones_DateTimeZoneCache.htm">
+        <HelpTOCNode Title="Ids Property " Url="html/P_NodaTime_TimeZones_DateTimeZoneCache_Ids.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/P_NodaTime_TimeZones_DateTimeZoneCache_Item.htm" />
+        <HelpTOCNode Title="VersionId Property " Url="html/P_NodaTime_TimeZones_DateTimeZoneCache_VersionId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="47d517f9-c380-45dc-8cf4-3b926b52235f" Title="DateTimeZoneNotFoundException Class" Url="html/T_NodaTime_TimeZones_DateTimeZoneNotFoundException.htm">
+      <HelpTOCNode Title="DateTimeZoneNotFoundException Members" Url="html/AllMembers_T_NodaTime_TimeZones_DateTimeZoneNotFoundException.htm" />
+      <HelpTOCNode Title="DateTimeZoneNotFoundException Constructor " Url="html/M_NodaTime_TimeZones_DateTimeZoneNotFoundException__ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0e512351-a49d-40f3-b9b5-13170b51b0c9" Title="IDateTimeZoneSource Interface" Url="html/T_NodaTime_TimeZones_IDateTimeZoneSource.htm">
+      <HelpTOCNode Title="IDateTimeZoneSource Members" Url="html/AllMembers_T_NodaTime_TimeZones_IDateTimeZoneSource.htm" />
+      <HelpTOCNode Id="618735d2-d4cd-499e-bea0-0780b472a0be" Title="IDateTimeZoneSource Methods" Url="html/Methods_T_NodaTime_TimeZones_IDateTimeZoneSource.htm">
+        <HelpTOCNode Title="ForId Method " Url="html/M_NodaTime_TimeZones_IDateTimeZoneSource_ForId.htm" />
+        <HelpTOCNode Title="GetIds Method " Url="html/M_NodaTime_TimeZones_IDateTimeZoneSource_GetIds.htm" />
+        <HelpTOCNode Title="MapTimeZoneId Method " Url="html/M_NodaTime_TimeZones_IDateTimeZoneSource_MapTimeZoneId.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cee8e44d-d43a-4eed-8c5d-de1e5af959fb" Title="IDateTimeZoneSource Properties" Url="html/Properties_T_NodaTime_TimeZones_IDateTimeZoneSource.htm">
+        <HelpTOCNode Title="VersionId Property " Url="html/P_NodaTime_TimeZones_IDateTimeZoneSource_VersionId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f81befc9-8d0e-4951-98cc-8d30981e4b0d" Title="InvalidDateTimeZoneSourceException Class" Url="html/T_NodaTime_TimeZones_InvalidDateTimeZoneSourceException.htm">
+      <HelpTOCNode Title="InvalidDateTimeZoneSourceException Members" Url="html/AllMembers_T_NodaTime_TimeZones_InvalidDateTimeZoneSourceException.htm" />
+      <HelpTOCNode Title="InvalidDateTimeZoneSourceException Constructor " Url="html/M_NodaTime_TimeZones_InvalidDateTimeZoneSourceException__ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="5b58ff3b-cc01-4b1a-91e0-69f40eba4cb4" Title="Resolvers Class" Url="html/T_NodaTime_TimeZones_Resolvers.htm">
+      <HelpTOCNode Title="Resolvers Members" Url="html/AllMembers_T_NodaTime_TimeZones_Resolvers.htm" />
+      <HelpTOCNode Id="840db998-d879-430e-960a-98a23d58604b" Title="Resolvers Fields" Url="html/Fields_T_NodaTime_TimeZones_Resolvers.htm">
+        <HelpTOCNode Title="LenientResolver Field" Url="html/F_NodaTime_TimeZones_Resolvers_LenientResolver.htm" />
+        <HelpTOCNode Title="ReturnEarlier Field" Url="html/F_NodaTime_TimeZones_Resolvers_ReturnEarlier.htm" />
+        <HelpTOCNode Title="ReturnEndOfIntervalBefore Field" Url="html/F_NodaTime_TimeZones_Resolvers_ReturnEndOfIntervalBefore.htm" />
+        <HelpTOCNode Title="ReturnLater Field" Url="html/F_NodaTime_TimeZones_Resolvers_ReturnLater.htm" />
+        <HelpTOCNode Title="ReturnStartOfIntervalAfter Field" Url="html/F_NodaTime_TimeZones_Resolvers_ReturnStartOfIntervalAfter.htm" />
+        <HelpTOCNode Title="StrictResolver Field" Url="html/F_NodaTime_TimeZones_Resolvers_StrictResolver.htm" />
+        <HelpTOCNode Title="ThrowWhenAmbiguous Field" Url="html/F_NodaTime_TimeZones_Resolvers_ThrowWhenAmbiguous.htm" />
+        <HelpTOCNode Title="ThrowWhenSkipped Field" Url="html/F_NodaTime_TimeZones_Resolvers_ThrowWhenSkipped.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8f783244-459f-48ae-b864-77772b79530f" Title="Resolvers Methods" Url="html/Methods_T_NodaTime_TimeZones_Resolvers.htm">
+        <HelpTOCNode Title="CreateMappingResolver Method " Url="html/M_NodaTime_TimeZones_Resolvers_CreateMappingResolver.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="SkippedTimeResolver Delegate" Url="html/T_NodaTime_TimeZones_SkippedTimeResolver.htm" />
+    <HelpTOCNode Id="b1885255-cb34-4b41-bfc4-37c556027150" Title="TzdbDateTimeZoneSource Class" Url="html/T_NodaTime_TimeZones_TzdbDateTimeZoneSource.htm">
+      <HelpTOCNode Title="TzdbDateTimeZoneSource Members" Url="html/AllMembers_T_NodaTime_TimeZones_TzdbDateTimeZoneSource.htm" />
+      <HelpTOCNode Id="87e3683c-170d-4872-9232-b8f5f5cfc5eb" Title="TzdbDateTimeZoneSource Constructor " Url="html/Overload_NodaTime_TimeZones_TzdbDateTimeZoneSource__ctor.htm">
+        <HelpTOCNode Title="TzdbDateTimeZoneSource Constructor (ResourceManager)" Url="html/M_NodaTime_TimeZones_TzdbDateTimeZoneSource__ctor.htm" />
+        <HelpTOCNode Title="TzdbDateTimeZoneSource Constructor (ResourceSet)" Url="html/M_NodaTime_TimeZones_TzdbDateTimeZoneSource__ctor_1.htm" />
+        <HelpTOCNode Title="TzdbDateTimeZoneSource Constructor (String)" Url="html/M_NodaTime_TimeZones_TzdbDateTimeZoneSource__ctor_2.htm" />
+        <HelpTOCNode Title="TzdbDateTimeZoneSource Constructor (String, Assembly)" Url="html/M_NodaTime_TimeZones_TzdbDateTimeZoneSource__ctor_3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d7e45baf-4409-4e75-ad15-3f86f021a9df" Title="TzdbDateTimeZoneSource Methods" Url="html/Methods_T_NodaTime_TimeZones_TzdbDateTimeZoneSource.htm">
+        <HelpTOCNode Title="ForId Method " Url="html/M_NodaTime_TimeZones_TzdbDateTimeZoneSource_ForId.htm" />
+        <HelpTOCNode Title="FromStream Method " Url="html/M_NodaTime_TimeZones_TzdbDateTimeZoneSource_FromStream.htm" />
+        <HelpTOCNode Title="GetIds Method " Url="html/M_NodaTime_TimeZones_TzdbDateTimeZoneSource_GetIds.htm" />
+        <HelpTOCNode Title="MapTimeZoneId Method " Url="html/M_NodaTime_TimeZones_TzdbDateTimeZoneSource_MapTimeZoneId.htm" />
+        <HelpTOCNode Title="Validate Method " Url="html/M_NodaTime_TimeZones_TzdbDateTimeZoneSource_Validate.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="14ce8a65-36ec-44d6-b598-bfc0acf67247" Title="TzdbDateTimeZoneSource Properties" Url="html/Properties_T_NodaTime_TimeZones_TzdbDateTimeZoneSource.htm">
+        <HelpTOCNode Title="Aliases Property " Url="html/P_NodaTime_TimeZones_TzdbDateTimeZoneSource_Aliases.htm" />
+        <HelpTOCNode Title="CanonicalIdMap Property " Url="html/P_NodaTime_TimeZones_TzdbDateTimeZoneSource_CanonicalIdMap.htm" />
+        <HelpTOCNode Title="Default Property " Url="html/P_NodaTime_TimeZones_TzdbDateTimeZoneSource_Default.htm" />
+        <HelpTOCNode Title="TzdbVersion Property " Url="html/P_NodaTime_TimeZones_TzdbDateTimeZoneSource_TzdbVersion.htm" />
+        <HelpTOCNode Title="VersionId Property " Url="html/P_NodaTime_TimeZones_TzdbDateTimeZoneSource_VersionId.htm" />
+        <HelpTOCNode Title="WindowsMapping Property " Url="html/P_NodaTime_TimeZones_TzdbDateTimeZoneSource_WindowsMapping.htm" />
+        <HelpTOCNode Title="ZoneLocations Property " Url="html/P_NodaTime_TimeZones_TzdbDateTimeZoneSource_ZoneLocations.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c1490edb-0508-43e9-b7da-d9f2ca254385" Title="TzdbZoneLocation Class" Url="html/T_NodaTime_TimeZones_TzdbZoneLocation.htm">
+      <HelpTOCNode Title="TzdbZoneLocation Members" Url="html/AllMembers_T_NodaTime_TimeZones_TzdbZoneLocation.htm" />
+      <HelpTOCNode Title="TzdbZoneLocation Constructor " Url="html/M_NodaTime_TimeZones_TzdbZoneLocation__ctor.htm" />
+      <HelpTOCNode Id="49eddd1c-2ba5-4636-9a69-f9532fb6143b" Title="TzdbZoneLocation Properties" Url="html/Properties_T_NodaTime_TimeZones_TzdbZoneLocation.htm">
+        <HelpTOCNode Title="Comment Property " Url="html/P_NodaTime_TimeZones_TzdbZoneLocation_Comment.htm" />
+        <HelpTOCNode Title="CountryCode Property " Url="html/P_NodaTime_TimeZones_TzdbZoneLocation_CountryCode.htm" />
+        <HelpTOCNode Title="CountryName Property " Url="html/P_NodaTime_TimeZones_TzdbZoneLocation_CountryName.htm" />
+        <HelpTOCNode Title="Latitude Property " Url="html/P_NodaTime_TimeZones_TzdbZoneLocation_Latitude.htm" />
+        <HelpTOCNode Title="Longitude Property " Url="html/P_NodaTime_TimeZones_TzdbZoneLocation_Longitude.htm" />
+        <HelpTOCNode Title="ZoneId Property " Url="html/P_NodaTime_TimeZones_TzdbZoneLocation_ZoneId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5d88fb3a-5bb5-4bd8-bf1c-66eccc4689ad" Title="ZoneEqualityComparer Class" Url="html/T_NodaTime_TimeZones_ZoneEqualityComparer.htm">
+      <HelpTOCNode Title="ZoneEqualityComparer Members" Url="html/AllMembers_T_NodaTime_TimeZones_ZoneEqualityComparer.htm" />
+      <HelpTOCNode Id="ebd9cf13-ea3a-4dd1-8d51-d9e5aea69774" Title="ZoneEqualityComparer Methods" Url="html/Methods_T_NodaTime_TimeZones_ZoneEqualityComparer.htm">
+        <HelpTOCNode Title="Equals Method " Url="html/M_NodaTime_TimeZones_ZoneEqualityComparer_Equals.htm" />
+        <HelpTOCNode Title="ForInterval Method " Url="html/M_NodaTime_TimeZones_ZoneEqualityComparer_ForInterval.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_TimeZones_ZoneEqualityComparer_GetHashCode.htm" />
+        <HelpTOCNode Title="WithOptions Method " Url="html/M_NodaTime_TimeZones_ZoneEqualityComparer_WithOptions.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ZoneEqualityComparer.Options Enumeration" Url="html/T_NodaTime_TimeZones_ZoneEqualityComparer_Options.htm" />
+    <HelpTOCNode Id="9b438690-000b-4f05-afd3-17cc864467b5" Title="ZoneInterval Class" Url="html/T_NodaTime_TimeZones_ZoneInterval.htm">
+      <HelpTOCNode Title="ZoneInterval Members" Url="html/AllMembers_T_NodaTime_TimeZones_ZoneInterval.htm" />
+      <HelpTOCNode Title="ZoneInterval Constructor " Url="html/M_NodaTime_TimeZones_ZoneInterval__ctor.htm" />
+      <HelpTOCNode Id="f6adba46-1d2e-4d04-99db-c0cb886280c1" Title="ZoneInterval Methods" Url="html/Methods_T_NodaTime_TimeZones_ZoneInterval.htm">
+        <HelpTOCNode Title="Contains Method " Url="html/M_NodaTime_TimeZones_ZoneInterval_Contains.htm" />
+        <HelpTOCNode Id="741b551b-0991-481e-890d-368f252ed28b" Title="Equals Method " Url="html/Overload_NodaTime_TimeZones_ZoneInterval_Equals.htm">
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/M_NodaTime_TimeZones_ZoneInterval_Equals_1.htm" />
+          <HelpTOCNode Title="Equals Method (ZoneInterval)" Url="html/M_NodaTime_TimeZones_ZoneInterval_Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_NodaTime_TimeZones_ZoneInterval_GetHashCode.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M_NodaTime_TimeZones_ZoneInterval_ToString.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7d19fe96-e4f9-4a5c-a8d8-82dee0274ce6" Title="ZoneInterval Properties" Url="html/Properties_T_NodaTime_TimeZones_ZoneInterval.htm">
+        <HelpTOCNode Title="Duration Property " Url="html/P_NodaTime_TimeZones_ZoneInterval_Duration.htm" />
+        <HelpTOCNode Title="End Property " Url="html/P_NodaTime_TimeZones_ZoneInterval_End.htm" />
+        <HelpTOCNode Title="IsoLocalEnd Property " Url="html/P_NodaTime_TimeZones_ZoneInterval_IsoLocalEnd.htm" />
+        <HelpTOCNode Title="IsoLocalStart Property " Url="html/P_NodaTime_TimeZones_ZoneInterval_IsoLocalStart.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_NodaTime_TimeZones_ZoneInterval_Name.htm" />
+        <HelpTOCNode Title="Savings Property " Url="html/P_NodaTime_TimeZones_ZoneInterval_Savings.htm" />
+        <HelpTOCNode Title="StandardOffset Property " Url="html/P_NodaTime_TimeZones_ZoneInterval_StandardOffset.htm" />
+        <HelpTOCNode Title="Start Property " Url="html/P_NodaTime_TimeZones_ZoneInterval_Start.htm" />
+        <HelpTOCNode Title="WallOffset Property " Url="html/P_NodaTime_TimeZones_ZoneInterval_WallOffset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="19a45527-9f2d-4c25-af0f-84addc24a3b7" Title="ZoneLocalMapping Class" Url="html/T_NodaTime_TimeZones_ZoneLocalMapping.htm">
+      <HelpTOCNode Title="ZoneLocalMapping Members" Url="html/AllMembers_T_NodaTime_TimeZones_ZoneLocalMapping.htm" />
+      <HelpTOCNode Id="d3948b8a-becd-4f04-b2ce-e75a1223eac8" Title="ZoneLocalMapping Methods" Url="html/Methods_T_NodaTime_TimeZones_ZoneLocalMapping.htm">
+        <HelpTOCNode Title="First Method " Url="html/M_NodaTime_TimeZones_ZoneLocalMapping_First.htm" />
+        <HelpTOCNode Title="Last Method " Url="html/M_NodaTime_TimeZones_ZoneLocalMapping_Last.htm" />
+        <HelpTOCNode Title="Single Method " Url="html/M_NodaTime_TimeZones_ZoneLocalMapping_Single.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="68aa38b0-4b97-4955-b617-2af0430a5220" Title="ZoneLocalMapping Properties" Url="html/Properties_T_NodaTime_TimeZones_ZoneLocalMapping.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_NodaTime_TimeZones_ZoneLocalMapping_Count.htm" />
+        <HelpTOCNode Title="EarlyInterval Property " Url="html/P_NodaTime_TimeZones_ZoneLocalMapping_EarlyInterval.htm" />
+        <HelpTOCNode Title="LateInterval Property " Url="html/P_NodaTime_TimeZones_ZoneLocalMapping_LateInterval.htm" />
+        <HelpTOCNode Title="LocalDateTime Property " Url="html/P_NodaTime_TimeZones_ZoneLocalMapping_LocalDateTime.htm" />
+        <HelpTOCNode Title="Zone Property " Url="html/P_NodaTime_TimeZones_ZoneLocalMapping_Zone.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ZoneLocalMappingResolver Delegate" Url="html/T_NodaTime_TimeZones_ZoneLocalMappingResolver.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="e1ea5db7-163f-4b35-b532-62f6f0456b81" Title="NodaTime.TimeZones.Cldr Namespace" Url="html/N_NodaTime_TimeZones_Cldr.htm">
+    <HelpTOCNode Id="4976144c-f9da-4c86-ab81-78d61e916120" Title="MapZone Class" Url="html/T_NodaTime_TimeZones_Cldr_MapZone.htm">
+      <HelpTOCNode Title="MapZone Members" Url="html/AllMembers_T_NodaTime_TimeZones_Cldr_MapZone.htm" />
+      <HelpTOCNode Title="MapZone Constructor " Url="html/M_NodaTime_TimeZones_Cldr_MapZone__ctor.htm" />
+      <HelpTOCNode Id="03314795-a845-44c7-b089-6e489704c28e" Title="MapZone Fields" Url="html/Fields_T_NodaTime_TimeZones_Cldr_MapZone.htm">
+        <HelpTOCNode Title="FixedOffsetTerritory Field" Url="html/F_NodaTime_TimeZones_Cldr_MapZone_FixedOffsetTerritory.htm" />
+        <HelpTOCNode Title="PrimaryTerritory Field" Url="html/F_NodaTime_TimeZones_Cldr_MapZone_PrimaryTerritory.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5613e584-c65e-4ec4-95a5-63a5280b13fb" Title="MapZone Properties" Url="html/Properties_T_NodaTime_TimeZones_Cldr_MapZone.htm">
+        <HelpTOCNode Title="Territory Property " Url="html/P_NodaTime_TimeZones_Cldr_MapZone_Territory.htm" />
+        <HelpTOCNode Title="TzdbIds Property " Url="html/P_NodaTime_TimeZones_Cldr_MapZone_TzdbIds.htm" />
+        <HelpTOCNode Title="WindowsId Property " Url="html/P_NodaTime_TimeZones_Cldr_MapZone_WindowsId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2317be44-0b70-49c5-b112-784ab99d5c54" Title="WindowsZones Class" Url="html/T_NodaTime_TimeZones_Cldr_WindowsZones.htm">
+      <HelpTOCNode Title="WindowsZones Members" Url="html/AllMembers_T_NodaTime_TimeZones_Cldr_WindowsZones.htm" />
+      <HelpTOCNode Id="34b4d16e-4178-475b-a98f-8a79a25045cb" Title="WindowsZones Properties" Url="html/Properties_T_NodaTime_TimeZones_Cldr_WindowsZones.htm">
+        <HelpTOCNode Title="MapZones Property " Url="html/P_NodaTime_TimeZones_Cldr_WindowsZones_MapZones.htm" />
+        <HelpTOCNode Title="PrimaryMapping Property " Url="html/P_NodaTime_TimeZones_Cldr_WindowsZones_PrimaryMapping.htm" />
+        <HelpTOCNode Title="TzdbVersion Property " Url="html/P_NodaTime_TimeZones_Cldr_WindowsZones_TzdbVersion.htm" />
+        <HelpTOCNode Title="Version Property " Url="html/P_NodaTime_TimeZones_Cldr_WindowsZones_Version.htm" />
+        <HelpTOCNode Title="WindowsVersion Property " Url="html/P_NodaTime_TimeZones_Cldr_WindowsZones_WindowsVersion.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="016b48dc-877f-4865-8099-4a6e5b01d486" Title="NodaTime.Utility Namespace" Url="html/N_NodaTime_Utility.htm">
+    <HelpTOCNode Id="3a63a796-ae60-43a2-8a95-2dad7270aa0d" Title="BclConversions Class" Url="html/T_NodaTime_Utility_BclConversions.htm">
+      <HelpTOCNode Title="BclConversions Members" Url="html/AllMembers_T_NodaTime_Utility_BclConversions.htm" />
+      <HelpTOCNode Id="823d2f32-52f6-4166-abaf-2ed97c854821" Title="BclConversions Methods" Url="html/Methods_T_NodaTime_Utility_BclConversions.htm">
+        <HelpTOCNode Title="ToDayOfWeek Method " Url="html/M_NodaTime_Utility_BclConversions_ToDayOfWeek.htm" />
+        <HelpTOCNode Title="ToIsoDayOfWeek Method " Url="html/M_NodaTime_Utility_BclConversions_ToIsoDayOfWeek.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b14fc49c-606d-4f64-8eed-f8151034c6ca" Title="InvalidNodaDataException Class" Url="html/T_NodaTime_Utility_InvalidNodaDataException.htm">
+      <HelpTOCNode Title="InvalidNodaDataException Members" Url="html/AllMembers_T_NodaTime_Utility_InvalidNodaDataException.htm" />
+      <HelpTOCNode Id="e68b1f31-4e84-46fa-9103-3077b620e32d" Title="InvalidNodaDataException Constructor " Url="html/Overload_NodaTime_Utility_InvalidNodaDataException__ctor.htm">
+        <HelpTOCNode Title="InvalidNodaDataException Constructor (String)" Url="html/M_NodaTime_Utility_InvalidNodaDataException__ctor.htm" />
+        <HelpTOCNode Title="InvalidNodaDataException Constructor (String, Exception)" Url="html/M_NodaTime_Utility_InvalidNodaDataException__ctor_1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

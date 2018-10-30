@@ -1,0 +1,366 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]> 				 <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width" />
+	<title>Patterns for LocalDateTime values</title>
+  
+	<!-- foundation default -->
+  	<link rel="stylesheet" href="css/foundation.css" />
+
+    <!-- syntax highlighting CSS -->
+    <link rel="stylesheet" href="css/syntax.css">
+
+    <!-- Foundicons -->
+    <link rel="stylesheet" href="css/general_enclosed_foundicons.css">
+
+    <!-- Prettify -->
+    <script src="js/prettify/run_prettify.js"></script>
+
+	<script src="js/vendor/custom.modernizr.js"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/mobile.css">
+</head>
+<body>
+
+	<section class="body">
+	
+
+
+
+<div class="row">
+	<div class="large-9 columns">
+		<h1>Patterns for LocalDateTime values</h1>
+		<p>The <a href="../api/html/T_NodaTime_LocalDateTime.htm"><code>LocalDateTime</code></a> type supports the following patterns:</p>
+
+<h2>Standard Patterns</h2>
+
+<p>The following standard patterns are supported:</p>
+
+<ul>
+<li><p><code>o</code> or <code>O</code>: The round-trip pattern, which is always &quot;yyyy&#39;-&#39;MM&#39;-&#39;dd&#39;T&#39;HH&#39;:&#39;mm&#39;:&#39;ss&#39;.&#39;fffffff&quot; using the invariant culture. The calendar
+system is not round-tripped in this pattern, but it&#39;s compatible with the BCL round-trip pattern (for <code>DateTime</code> values with a <code>Kind</code> of <code>Unspecified</code>, which is closest in meaning to <code>LocalDateTime</code>).</p></li>
+<li><p><code>r</code>: The full round-trip pattern including calendar system, which is always &quot;yyyy&#39;-&#39;MM&#39;-&#39;dd&#39;T&#39;HH&#39;:&#39;mm&#39;:&#39;ss&#39;.&#39;fffffff &#39;(&#39;c&#39;)&#39;&quot; using the invariant culture.</p></li>
+<li><p><code>s</code>: The sortable pattern, which is always &quot;yyyy&#39;-&#39;MM&#39;-&#39;dd&#39;T&#39;HH&#39;:&#39;mm&#39;:&#39;ss&quot; using the invariant culture. (Note: this is only truly sortable for years within the range [0-9999].)</p></li>
+<li><p><code>f</code>: The culture&#39;s <a href="http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.longdatepattern.aspx">long date pattern</a> followed by a space,
+followed by the <a href="http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.shorttimepattern.aspx">short time pattern</a>.</p></li>
+<li><p><code>F</code>: The full date and time pattern as defined by the culture&#39;s <a href="http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.fulldatetimepattern.aspx"><code>DateTimeFormatInfo.FullDateTimePattern</code></a> 
+For example, in the invariant culture this is &quot;dddd, dd MMMM yyyy HH:mm:ss&quot;.</p></li>
+<li><p><code>g</code>: The culture&#39;s <a href="http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.shortdatepattern.aspx">short date pattern</a> followed by a space,
+followed by the <a href="http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.shorttimepattern.aspx">short time pattern</a>.</p></li>
+<li><p><code>G</code>: The culture&#39;s <a href="http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.shortdatepattern.aspx">short date pattern</a> followed by a space,
+followed by the <a href="http://msdn.microsoft.com/en-us/library/system.globalization.datetimeformatinfo.longtimepattern.aspx">long time pattern</a>.
+This is the default format pattern.</p></li>
+</ul>
+
+<h2>Custom Patterns</h2>
+
+<p>The custom format patterns for local date and time values are provided by combining the <a href="localdate-patterns.html">custom patterns for <code>LocalDate</code></a> with
+the <a href="localtime-patterns.html">custom patterns for <code>LocalTime</code></a>. The result is simply the combination of the date and the time.</p>
+
+<p>There is one exception to this: when parsing a <code>LocalDateTime</code>, an 24-hour (<code>HH</code>) specifier is allowed to have the value 24,
+instead of being limited to the range 00-23. This is only permitted if the resulting time of day is midnight, and it indicates
+the end of the specified day. The result is midnight on the following day. For example, using the ISO pattern, the values
+<code>2012-11-24T24:00:00</code> and <code>2012-11-25T00:00:00</code> are equivalent. A value of 24 is never produced when formatting.</p>
+
+		<ul class="pagination">
+		
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			<li class="current hide-for-small"><a href>Patterns for LocalDateTime values</a></li>
+			
+			
+		
+			
+			<li><a href="offsetdatetime-patterns.html"><strong>Next</strong>: Patterns for OffsetDateTime values</a></li>
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		
+		</ul>
+	</div>
+
+	<div class="large-3 columns">
+		<div class="section-container accordian">
+			<section>
+				<p class="title" data-section-title>Introduction</p>
+				<div class="content" data-section-content>
+					<ul class="side-nav">
+						
+                            
+							<li><a href="" >Overview</a></li>
+						
+                            
+							<li><a href="rationale.html" >Why does Noda Time exist?</a></li>
+						
+                            
+							<li><a href="installation.html" >Installation</a></li>
+						
+					</ul>
+				</div>
+			</section>
+			<section>
+				<p class="title" data-section-title>Core</p>
+				<div class="content" data-section-content>
+					<ul class="side-nav">
+						
+                            
+							<li><a href="concepts.html" >Core concepts</a></li>
+						
+                            
+							<li><a href="type-choices.html" >Choosing (and converting) between types</a></li>
+						
+                            
+							<li><a href="core-types.html" >Core types quick reference</a></li>
+						
+                            
+							<li><a href="design.html" >Design philosophy and conventions</a></li>
+						
+					</ul>
+				</div>
+			</section>
+			<section>
+				<p class="title" data-section-title>Text</p>
+				<div class="content" data-section-content>
+					<ul class="side-nav">
+						
+                            
+							<li><a href="text.html" >Text handling</a></li>
+						
+                            
+							<li><a href="duration-patterns.html" >Patterns for Duration values</a></li>
+						
+                            
+							<li><a href="offset-patterns.html" >Patterns for Offset values</a></li>
+						
+                            
+							<li><a href="instant-patterns.html" >Patterns for Instant values</a></li>
+						
+                            
+							<li><a href="localtime-patterns.html" >Patterns for LocalTime values</a></li>
+						
+                            
+							<li><a href="localdate-patterns.html" >Patterns for LocalDate values</a></li>
+						
+                            
+							<li><a href="localdatetime-patterns.html" class="active">Patterns for LocalDateTime values</a></li>
+						
+                            
+							<li><a href="offsetdatetime-patterns.html" >Patterns for OffsetDateTime values</a></li>
+						
+                            
+							<li><a href="zoneddatetime-patterns.html" >Patterns for ZonedDateTime values</a></li>
+						
+                            
+							<li><a href="period-patterns.html" >Patterns for Period values</a></li>
+						
+					</ul>
+				</div>
+			</section>
+			<section>
+				<p class="title" data-section-title>Advanced</p>
+				<div class="content" data-section-content>
+					<ul class="side-nav">
+						
+                            
+							<li><a href="arithmetic.html" >Date and time arithmetic</a></li>
+						
+                            
+							<li><a href="bcl-conversions.html" >BCL conversions</a></li>
+						
+                            
+							<li><a href="serialization.html" >Serialization</a></li>
+						
+                            
+							<li><a href="calendars.html" >Calendars</a></li>
+						
+                            
+							<li><a href="threading.html" >Threading</a></li>
+						
+                            
+							<li><a href="trivia.html" >Trivia</a></li>
+						
+					</ul>
+				</div>
+			</section>
+			<section>
+				<p class="title" data-section-title>Library</p>
+				<div class="content" data-section-content>
+					<ul class="side-nav">
+						
+                            
+							<li><a href="testing.html" >Unit testing with Noda Time</a></li>
+						
+                            
+							<li><a href="tzdb.html" >Updating the time zone database</a></li>
+						
+                            
+							<li><a href="mono.html" >Mono support</a></li>
+						
+                            
+							<li><a href="limitations.html" >Limitations of Noda Time</a></li>
+						
+                            
+							<li><a href="roadmap.html" >Current roadmap</a></li>
+						
+                            
+							<li><a href="versions.html" >Version history</a></li>
+						
+					</ul>
+				</div>
+			</section>
+			<footer>Version  1.3.2  </footer>
+		</div>
+	</div>
+</div>
+
+	</section>
+	
+	<script>
+	document.write('<script src=' +
+	('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery') +
+	'.js><\/script>')
+	</script>
+  
+  	<script src="js/foundation.min.js"></script>
+  	
+
+  <!--
+  <script src="js/foundation/foundation.js"></script>  
+  <script src="js/foundation/foundation.alerts.js"></script>
+  <script src="js/foundation/foundation.clearing.js"></script>  
+  <script src="js/foundation/foundation.cookie.js"></script>
+  <script src="js/foundation/foundation.dropdown.js"></script>
+  <script src="js/foundation/foundation.forms.js"></script>
+  <script src="js/foundation/foundation.joyride.js"></script>
+  <script src="js/foundation/foundation.magellan.js"></script>
+  <script src="js/foundation/foundation.orbit.js"></script>
+  <script src="js/foundation/foundation.placeholder.js"></script>
+  <script src="js/foundation/foundation.reveal.js"></script>
+  <script src="js/foundation/foundation.section.js"></script>
+  <script src="js/foundation/foundation.tooltips.js"></script>
+  <script src="js/foundation/foundation.topbar.js"></script>
+  <script src="js/foundation/foundation.interchange.js"></script>
+  -->
+  
+  <script>
+    $(document).foundation();
+  </script>
+</body>
+</html>
